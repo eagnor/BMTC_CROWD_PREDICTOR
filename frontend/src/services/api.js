@@ -182,31 +182,71 @@ export const api = {
       const m = current_minute !== undefined ? current_minute : now.getMinutes();
       const r = route || '500-D';
       const isPeak = (h >= 8 && h <= 10) || (h >= 17 && h <= 20);
-      const freq = isPeak ? 8 : 15;
+      const matchedRoute = FALLBACK_ROUTES.find(x => x.route_no === r) || FALLBACK_ROUTES[0];
+      const freq = isPeak ? matchedRoute.peak_frequency_mins : matchedRoute.offpeak_frequency_mins;
       const wait = freq - (m % freq) || freq;
-      const duration = 18;
-      const arrivalMin = (m + wait + duration) % 60;
-      const arrivalHour = (h + Math.floor((m + wait + duration) / 60)) % 24;
+      const duration = 16;
+
+      const format12Hour = (dateObj) => {
+        let hours = dateObj.getHours();
+        const minutes = dateObj.getMinutes();
+        const ampm = hours >= 12 ? 'PM' : 'AM';
+        hours = hours % 12;
+        hours = hours ? hours : 12;
+        return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')} ${ampm}`;
+      };
+
+      const baseDate = new Date();
+      baseDate.setHours(h, m, 0, 0);
+
+      // Find intermediate stops from sequence
+      const seq = matchedRoute.stops_sequence || [];
+      const idxStart = seq.indexOf(origin_stop);
+      const idxEnd = seq.indexOf(destination_stop);
+      let intermediate = [];
+      if (idxStart !== -1 && idxEnd !== -1) {
+        if (idxStart < idxEnd) {
+          intermediate = seq.slice(idxStart + 1, idxEnd);
+        } else {
+          intermediate = seq.slice(idxEnd + 1, idxStart).reverse();
+        }
+      }
+
+      const upcoming = [0, 1, 2, 3].map((i) => {
+        const depOffset = wait + (i * freq);
+        const depTime = new Date(baseDate.getTime() + depOffset * 60000);
+        const arrTime = new Date(depTime.getTime() + duration * 60000);
+        const depHour = depTime.getHours();
+        const depIsPeak = (depHour >= 8 && depHour <= 10) || (depHour >= 17 && depHour <= 20);
+        const crowd = depIsPeak ? 'High' : (depHour >= 11 && depHour <= 16 ? 'Moderate' : 'Low');
+
+        return {
+          departure_time: format12Hour(depTime),
+          estimated_arrival_origin: format12Hour(depTime),
+          eta_mins_to_origin: depOffset,
+          journey_duration_mins: duration,
+          estimated_destination_arrival: format12Hour(arrTime),
+          predicted_crowd: crowd,
+        };
+      });
+
+      const nextArrTime = new Date(baseDate.getTime() + (wait + duration) * 60000);
 
       return {
         origin_stop,
         destination_stop,
         route: r,
-        route_name: r === '500-D' ? 'Hebbal - ORR - Nagawara Corridor' : (r === '290-E' ? 'Yelahanka - Jakkur - Manyata' : 'RK Hegde Nagar - Manyata'),
+        route_name: matchedRoute.route_name,
         current_time: `${String(h).padStart(2, '0')}:${String(m).padStart(2, '0')}`,
         next_bus_eta_mins: wait,
         journey_duration_mins: duration,
-        estimated_arrival_time: `${String(arrivalHour > 12 ? arrivalHour - 12 : (arrivalHour === 0 ? 12 : arrivalHour)).padStart(2, '0')}:${String(arrivalMin).padStart(2, '0')} ${arrivalHour >= 12 ? 'PM' : 'AM'}`,
-        predicted_crowd_level: isPeak ? 'High' : 'Low',
+        estimated_arrival_time: format12Hour(nextArrTime),
+        predicted_crowd_level: isPeak ? 'High' : 'Moderate',
         data_source: 'BMTC Scheduled Corridor Timetable (Frequency Model)',
         is_live_gps: false,
         schedule_disclaimer: 'Estimated scheduled arrival based on standard BMTC timetable headway. Real-time GPS tracking is unverified.',
-        upcoming_departures: [
-          { departure_time: `+${wait} mins`, estimated_arrival_origin: `in ${wait}m`, eta_mins_to_origin: wait, journey_duration_mins: duration, estimated_destination_arrival: `+${wait + duration}m`, predicted_crowd: isPeak ? 'High' : 'Medium' },
-          { departure_time: `+${wait + freq} mins`, estimated_arrival_origin: `in ${wait + freq}m`, eta_mins_to_origin: wait + freq, journey_duration_mins: duration, estimated_destination_arrival: `+${wait + freq + duration}m`, predicted_crowd: isPeak ? 'High' : 'Low' },
-          { departure_time: `+${wait + 2 * freq} mins`, estimated_arrival_origin: `in ${wait + 2 * freq}m`, eta_mins_to_origin: wait + 2 * freq, journey_duration_mins: duration, estimated_destination_arrival: `+${wait + 2 * freq + duration}m`, predicted_crowd: 'Low' },
-        ],
-        intermediate_stops: ['Veerannapalya'],
+        upcoming_departures: upcoming,
+        intermediate_stops: intermediate,
       };
     }
   },
