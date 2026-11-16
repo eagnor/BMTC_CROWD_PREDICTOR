@@ -1,0 +1,233 @@
+[
+  {
+    "model_name": "Gradient Boosting",
+    "accuracy": 71.8,
+    "macro_precision": 73.47,
+    "macro_recall": 72.73,
+    "macro_f1": 73.08,
+    "accuracy_raw": 0.718,
+    "macro_f1_raw": 0.7307746921650334,
+    "confusion_matrix": [
+      [
+        544,
+        190,
+        0
+      ],
+      [
+        194,
+        535,
+        78
+      ],
+      [
+        3,
+        99,
+        357
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.009,
+    "is_best": true
+  },
+  {
+    "model_name": "Decision Tree",
+    "accuracy": 70.9,
+    "macro_precision": 72.56,
+    "macro_recall": 72.04,
+    "macro_f1": 72.28,
+    "accuracy_raw": 0.709,
+    "macro_f1_raw": 0.722836850060128,
+    "confusion_matrix": [
+      [
+        542,
+        192,
+        0
+      ],
+      [
+        210,
+        517,
+        80
+      ],
+      [
+        4,
+        96,
+        359
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.002,
+    "is_best": false
+  },
+  {
+    "model_name": "XGBoost",
+    "accuracy": 70.0,
+    "macro_precision": 71.51,
+    "macro_recall": 71.25,
+    "macro_f1": 71.35,
+    "accuracy_raw": 0.7,
+    "macro_f1_raw": 0.7134968749904357,
+    "confusion_matrix": [
+      [
+        545,
+        188,
+        1
+      ],
+      [
+        223,
+        498,
+        86
+      ],
+      [
+        4,
+        98,
+        357
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.004,
+    "is_best": false
+  },
+  {
+    "model_name": "Random Forest",
+    "accuracy": 65.6,
+    "macro_precision": 67.34,
+    "macro_recall": 67.08,
+    "macro_f1": 67.2,
+    "accuracy_raw": 0.656,
+    "macro_f1_raw": 0.6720444075625621,
+    "confusion_matrix": [
+      [
+        499,
+        231,
+        4
+      ],
+      [
+        242,
+        467,
+        98
+      ],
+      [
+        7,
+        106,
+        346
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.018,
+    "is_best": false
+  },
+  {
+    "model_name": "KNN",
+    "accuracy": 65.2,
+    "macro_precision": 66.25,
+    "macro_recall": 67.06,
+    "macro_f1": 66.57,
+    "accuracy_raw": 0.652,
+    "macro_f1_raw": 0.6657243515444408,
+    "confusion_matrix": [
+      [
+        522,
+        208,
+        4
+      ],
+      [
+        260,
+        429,
+        118
+      ],
+      [
+        10,
+        96,
+        353
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.098,
+    "is_best": false
+  },
+  {
+    "model_name": "SVM",
+    "accuracy": 50.75,
+    "macro_precision": 53.1,
+    "macro_recall": 47.38,
+    "macro_f1": 48.04,
+    "accuracy_raw": 0.5075,
+    "macro_f1_raw": 0.48037578732463326,
+    "confusion_matrix": [
+      [
+        399,
+        313,
+        22
+      ],
+      [
+        241,
+        494,
+        72
+      ],
+      [
+        54,
+        283,
+        122
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.144,
+    "is_best": false
+  },
+  {
+    "model_name": "Logistic Regression",
+    "accuracy": 42.15,
+    "macro_precision": 40.33,
+    "macro_recall": 37.41,
+    "macro_f1": 35.91,
+    "accuracy_raw": 0.4215,
+    "macro_f1_raw": 0.35914280229872997,
+    "confusion_matrix": [
+      [
+        303,
+        399,
+        32
+      ],
+      [
+        250,
+        497,
+        60
+      ],
+      [
+        60,
+        356,
+        43
+      ]
+    ],
+    "class_labels": [
+      "Low",
+      "Medium",
+      "High"
+    ],
+    "latency_ms": 0.001,
+    "is_best": false
+  }
+]

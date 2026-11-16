@@ -1,0 +1,125 @@
+{
+  "project": "AI-Based BMTC Crowd Predictor for Students",
+  "data_warning": "SYNTHETIC dataset. This is NOT real BMTC passenger data.",
+  "created_at": "2026-11-12T00:26:02",
+  "source_file": "data/manyata_synthetic_bmtc_crowd_dataset.csv",
+  "total_records": 10000,
+  "target_variable": "crowd_level",
+  "class_labels": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "feature_names": [
+    "route",
+    "bus_stop",
+    "day_of_week",
+    "hour",
+    "is_weekend"
+  ],
+  "categorical_features": [
+    "route",
+    "bus_stop",
+    "day_of_week"
+  ],
+  "numerical_features": [
+    "hour",
+    "is_weekend"
+  ],
+  "excluded_columns": [
+    "simulated_passengers_onboard",
+    "simulated_occupancy_percent",
+    "bus_capacity_assumed",
+    "destination_area"
+  ],
+  "excluded_reason": {
+    "simulated_passengers_onboard": "crowd_level is derived from it (data leakage)",
+    "simulated_occupancy_percent": "crowd_level is derived from it (data leakage)",
+    "bus_capacity_assumed": "only used to calculate occupancy; not a pre-trip input",
+    "destination_area": "constant value in every row, carries no information"
+  },
+  "random_seed": 42,
+  "train_test_split": {
+    "function": "train_test_split(test_size=0.20, random_state=42, stratify=y)",
+    "train_records": 8000,
+    "test_records": 2000,
+    "stratified_by": "crowd_level",
+    "train_class_counts": {
+      "Low": 2934,
+      "Medium": 3229,
+      "High": 1837
+    },
+    "test_class_counts": {
+      "Low": 734,
+      "Medium": 807,
+      "High": 459
+    },
+    "train_file": "training_data.csv",
+    "test_file": "testing_data.csv",
+    "test_file_sha256": "57c010283810eb4989a0621348708f81bd8c9b324d289d677707cb8b24fb170e",
+    "test_data_used_for_training_or_tuning": false
+  },
+  "preprocessing": {
+    "categorical_encoding": "OneHotEncoder(handle_unknown='ignore') on route, bus_stop, day_of_week",
+    "scaling": "StandardScaler on hour and is_weekend for Logistic Regression, KNN, SVM only; other models use unscaled numbers",
+    "implementation": "sklearn Pipeline + ColumnTransformer saved INSIDE each model file; fitted on the 8,000 training records only",
+    "how_to_predict": "Give the loaded model a DataFrame with the 5 feature columns (raw text values, no manual encoding): model.predict(df[feature_names])"
+  },
+  "models": {
+    "Logistic Regression": {
+      "file": "models/logistic_regression.joblib",
+      "hyperparameters": "max_iter=1000",
+      "training_time_seconds": 0.0635,
+      "predicts_labels_as": "text (Low / Medium / High)"
+    },
+    "Decision Tree": {
+      "file": "models/decision_tree.joblib",
+      "hyperparameters": "max_depth=10",
+      "training_time_seconds": 0.0413,
+      "predicts_labels_as": "text (Low / Medium / High)"
+    },
+    "Random Forest": {
+      "file": "models/random_forest.joblib",
+      "hyperparameters": "n_estimators=200",
+      "training_time_seconds": 4.8115,
+      "predicts_labels_as": "text (Low / Medium / High)"
+    },
+    "KNN": {
+      "file": "models/knn.joblib",
+      "hyperparameters": "n_neighbors=5",
+      "training_time_seconds": 0.0164,
+      "predicts_labels_as": "text (Low / Medium / High)"
+    },
+    "SVM": {
+      "file": "models/svm.joblib",
+      "hyperparameters": "kernel=rbf, C=1.0, gamma=scale",
+      "training_time_seconds": 2.6945,
+      "predicts_labels_as": "text (Low / Medium / High)"
+    },
+    "Gradient Boosting": {
+      "file": "models/gradient_boosting.joblib",
+      "hyperparameters": "n_estimators=100, learning_rate=0.1",
+      "training_time_seconds": 1.1077,
+      "predicts_labels_as": "text (Low / Medium / High)"
+    },
+    "XGBoost": {
+      "file": "models/xgboost.joblib",
+      "hyperparameters": "n_estimators=200, learning_rate=0.1, max_depth=6",
+      "training_time_seconds": 0.4572,
+      "predicts_labels_as": "numbers (0=Low, 1=Medium, 2=High)"
+    }
+  },
+  "xgboost_label_mapping": {
+    "Low": 0,
+    "Medium": 1,
+    "High": 2
+  },
+  "xgboost_included": true,
+  "library_versions": {
+    "python": "3.12.3",
+    "scikit-learn": "1.9.1",
+    "pandas": "3.0.6",
+    "joblib": "1.6.0",
+    "xgboost": "3.4.1"
+  }
+}

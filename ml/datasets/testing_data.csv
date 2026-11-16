@@ -1,0 +1,2001 @@
+route,bus_stop,hour,day_of_week,is_weekend,bus_capacity_assumed,simulated_passengers_onboard,simulated_occupancy_percent,crowd_level,destination_area
+500-D,Nagawara,9,Tuesday,0,60,42,70.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,8,Friday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,19,Friday,0,55,44,80.0,High,Manyata Tech Park
+500-D,Veerannapalya,8,Tuesday,0,60,60,100.0,High,Manyata Tech Park
+290-B,Thanisandra,14,Sunday,1,55,24,43.6,Medium,Manyata Tech Park
+500-D,Hebbal,9,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,18,Friday,0,55,45,81.8,High,Manyata Tech Park
+290-E,Jakkur,15,Tuesday,0,60,32,53.3,Medium,Manyata Tech Park
+290-B,Nagawara,15,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Jakkur,17,Saturday,1,55,26,47.3,Medium,Manyata Tech Park
+290-B,Nagawara,6,Monday,0,50,26,52.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,14,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Nagawara,8,Saturday,1,60,49,81.7,High,Manyata Tech Park
+290-B,Nagawara,11,Tuesday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Monday,0,55,18,32.7,Low,Manyata Tech Park
+290-B,Thanisandra,22,Thursday,0,55,3,5.5,Low,Manyata Tech Park
+290-E,Jakkur,18,Sunday,1,55,27,49.1,Medium,Manyata Tech Park
+290-E,Jakkur,19,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,15,Thursday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Monday,0,50,28,56.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,22,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Monday,0,60,46,76.7,High,Manyata Tech Park
+290-B,Manyata Tech Park,6,Tuesday,0,60,23,38.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Saturday,1,50,35,70.0,Medium,Manyata Tech Park
+290-B,Thanisandra,10,Wednesday,0,55,31,56.4,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,22,Sunday,1,55,0,0.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,8,Saturday,1,55,40,72.7,High,Manyata Tech Park
+500-D,Hebbal,21,Thursday,0,55,14,25.5,Low,Manyata Tech Park
+290-E,Jakkur,5,Sunday,1,55,18,32.7,Low,Manyata Tech Park
+290-B,Manyata Tech Park,11,Thursday,0,60,14,23.3,Low,Manyata Tech Park
+290-E,Yelahanka,5,Wednesday,0,55,9,16.4,Low,Manyata Tech Park
+290-B,Nagawara,9,Friday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Hebbal,7,Sunday,1,55,30,54.5,Medium,Manyata Tech Park
+290-E,Jakkur,8,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Hebbal,15,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,10,Friday,0,50,32,64.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Monday,0,55,6,10.9,Low,Manyata Tech Park
+500-D,Manyata Tech Park,16,Tuesday,0,50,25,50.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,6,Thursday,0,60,23,38.3,Medium,Manyata Tech Park
+500-D,Nagawara,7,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,15,Tuesday,0,60,13,21.7,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Friday,0,60,56,93.3,High,Manyata Tech Park
+500-D,Manyata Tech Park,7,Friday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,50,22,44.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,10,Wednesday,0,50,33,66.0,Medium,Manyata Tech Park
+500-D,Hebbal,9,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Thanisandra,22,Tuesday,0,55,5,9.1,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Sunday,1,60,16,26.7,Low,Manyata Tech Park
+290-E,Jakkur,16,Wednesday,0,60,22,36.7,Medium,Manyata Tech Park
+500-D,Nagawara,17,Monday,0,60,30,50.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Wednesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-B,Nagawara,13,Tuesday,0,60,20,33.3,Low,Manyata Tech Park
+290-B,Thanisandra,12,Thursday,0,60,14,23.3,Low,Manyata Tech Park
+500-D,Nagawara,15,Wednesday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Nagawara,18,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,17,Tuesday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,18,Monday,0,50,48,96.0,High,Manyata Tech Park
+290-B,Nagawara,9,Friday,0,55,48,87.3,High,Manyata Tech Park
+500-D,Veerannapalya,20,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Saturday,1,60,27,45.0,Medium,Manyata Tech Park
+500-D,Hebbal,21,Friday,0,55,7,12.7,Low,Manyata Tech Park
+290-E,Yelahanka,8,Saturday,1,50,47,94.0,High,Manyata Tech Park
+290-B,Thanisandra,18,Friday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Yelahanka,16,Wednesday,0,50,12,24.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,5,Monday,0,55,10,18.2,Low,Manyata Tech Park
+290-E,Manyata Tech Park,8,Sunday,1,60,33,55.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,11,Monday,0,50,24,48.0,Medium,Manyata Tech Park
+290-E,Jakkur,13,Sunday,1,50,16,32.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,19,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Thanisandra,15,Monday,0,55,18,32.7,Low,Manyata Tech Park
+290-B,Nagawara,11,Tuesday,0,60,20,33.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,9,Thursday,0,60,56,93.3,High,Manyata Tech Park
+290-E,Manyata Tech Park,14,Friday,0,50,27,54.0,Medium,Manyata Tech Park
+290-B,Thanisandra,13,Wednesday,0,55,15,27.3,Low,Manyata Tech Park
+290-E,Yelahanka,10,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Thanisandra,10,Wednesday,0,60,23,38.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,19,Thursday,0,55,44,80.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,21,Wednesday,0,60,8,13.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,11,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+290-E,Yelahanka,9,Saturday,1,50,18,36.0,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Sunday,1,55,28,50.9,Medium,Manyata Tech Park
+290-E,Yelahanka,14,Friday,0,55,31,56.4,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,12,Sunday,1,60,15,25.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,7,Wednesday,0,55,52,94.5,High,Manyata Tech Park
+290-B,Thanisandra,8,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Jakkur,8,Saturday,1,55,32,58.2,Medium,Manyata Tech Park
+290-B,Nagawara,8,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Yelahanka,14,Thursday,0,55,25,45.5,Medium,Manyata Tech Park
+290-E,Yelahanka,10,Friday,0,60,16,26.7,Low,Manyata Tech Park
+290-E,Thanisandra,21,Tuesday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,5,Wednesday,0,50,10,20.0,Low,Manyata Tech Park
+290-E,Thanisandra,18,Tuesday,0,50,44,88.0,High,Manyata Tech Park
+500-D,Veerannapalya,5,Tuesday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Nagawara,18,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Yelahanka,20,Thursday,0,50,14,28.0,Low,Manyata Tech Park
+500-D,Veerannapalya,21,Thursday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Nagawara,15,Sunday,1,50,20,40.0,Medium,Manyata Tech Park
+290-B,Thanisandra,18,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+290-E,Jakkur,16,Saturday,1,60,4,6.7,Low,Manyata Tech Park
+290-E,Jakkur,22,Saturday,1,50,11,22.0,Low,Manyata Tech Park
+500-D,Veerannapalya,20,Monday,0,60,23,38.3,Medium,Manyata Tech Park
+290-E,Thanisandra,22,Friday,0,55,0,0.0,Low,Manyata Tech Park
+290-B,Thanisandra,14,Tuesday,0,60,19,31.7,Low,Manyata Tech Park
+290-E,Jakkur,11,Tuesday,0,60,15,25.0,Low,Manyata Tech Park
+500-D,Hebbal,17,Saturday,1,55,29,52.7,Medium,Manyata Tech Park
+500-D,Nagawara,7,Thursday,0,55,42,76.4,High,Manyata Tech Park
+290-E,Thanisandra,13,Wednesday,0,55,15,27.3,Low,Manyata Tech Park
+290-B,Nagawara,20,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,13,Thursday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Hebbal,12,Tuesday,0,55,37,67.3,Medium,Manyata Tech Park
+500-D,Hebbal,22,Thursday,0,60,12,20.0,Low,Manyata Tech Park
+290-E,Yelahanka,5,Sunday,1,50,14,28.0,Low,Manyata Tech Park
+290-B,Thanisandra,20,Wednesday,0,50,24,48.0,Medium,Manyata Tech Park
+290-E,Thanisandra,11,Monday,0,50,22,44.0,Medium,Manyata Tech Park
+290-B,Nagawara,9,Saturday,1,60,30,50.0,Medium,Manyata Tech Park
+500-D,Hebbal,16,Wednesday,0,50,33,66.0,Medium,Manyata Tech Park
+290-E,Yelahanka,9,Tuesday,0,50,47,94.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Monday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Thanisandra,11,Monday,0,60,12,20.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,6,Wednesday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Thanisandra,12,Friday,0,55,5,9.1,Low,Manyata Tech Park
+290-B,Nagawara,16,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-E,Yelahanka,15,Friday,0,50,15,30.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,7,Sunday,1,50,29,58.0,Medium,Manyata Tech Park
+290-B,Thanisandra,18,Thursday,0,60,42,70.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,16,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,Nagawara,20,Thursday,0,60,35,58.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,13,Friday,0,55,0,0.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Thursday,0,55,49,89.1,High,Manyata Tech Park
+290-B,Manyata Tech Park,13,Saturday,1,55,8,14.5,Low,Manyata Tech Park
+290-B,Manyata Tech Park,15,Thursday,0,55,6,10.9,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Friday,0,60,9,15.0,Low,Manyata Tech Park
+500-D,Hebbal,16,Friday,0,50,40,80.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Thursday,0,50,11,22.0,Low,Manyata Tech Park
+290-E,Thanisandra,18,Wednesday,0,50,47,94.0,High,Manyata Tech Park
+500-D,Veerannapalya,11,Wednesday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Nagawara,15,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Jakkur,22,Thursday,0,50,21,42.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,17,Sunday,1,50,19,38.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,17,Thursday,0,60,30,50.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,6,Wednesday,0,60,29,48.3,Medium,Manyata Tech Park
+290-B,Nagawara,11,Saturday,1,60,15,25.0,Low,Manyata Tech Park
+290-E,Jakkur,11,Tuesday,0,55,6,10.9,Low,Manyata Tech Park
+290-B,Thanisandra,21,Wednesday,0,55,7,12.7,Low,Manyata Tech Park
+500-D,Veerannapalya,18,Thursday,0,60,57,95.0,High,Manyata Tech Park
+290-B,Nagawara,7,Monday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,12,Friday,0,50,26,52.0,Medium,Manyata Tech Park
+290-E,Jakkur,7,Monday,0,50,44,88.0,High,Manyata Tech Park
+290-E,Thanisandra,18,Saturday,1,55,38,69.1,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Monday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,7,Friday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Hebbal,18,Sunday,1,60,42,70.0,Medium,Manyata Tech Park
+290-E,Jakkur,5,Saturday,1,55,14,25.5,Low,Manyata Tech Park
+290-B,Nagawara,16,Wednesday,0,55,27,49.1,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Saturday,1,55,30,54.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,13,Saturday,1,55,24,43.6,Medium,Manyata Tech Park
+290-E,Jakkur,7,Friday,0,55,41,74.5,High,Manyata Tech Park
+290-E,Thanisandra,12,Saturday,1,60,17,28.3,Low,Manyata Tech Park
+500-D,Veerannapalya,5,Saturday,1,55,6,10.9,Low,Manyata Tech Park
+500-D,Nagawara,13,Sunday,1,60,0,0.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,21,Monday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Nagawara,16,Tuesday,0,50,47,94.0,High,Manyata Tech Park
+290-B,Thanisandra,20,Friday,0,50,24,48.0,Medium,Manyata Tech Park
+500-D,Hebbal,10,Monday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Veerannapalya,21,Saturday,1,50,10,20.0,Low,Manyata Tech Park
+290-E,Thanisandra,10,Tuesday,0,60,34,56.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,15,Sunday,1,55,13,23.6,Low,Manyata Tech Park
+290-B,Thanisandra,5,Wednesday,0,60,2,3.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,19,Thursday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,7,Friday,0,55,43,78.2,High,Manyata Tech Park
+290-E,Yelahanka,5,Wednesday,0,60,9,15.0,Low,Manyata Tech Park
+290-B,Nagawara,16,Friday,0,55,34,61.8,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Thursday,0,60,25,41.7,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,11,Wednesday,0,50,14,28.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,5,Monday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Monday,0,60,56,93.3,High,Manyata Tech Park
+290-E,Manyata Tech Park,20,Thursday,0,50,22,44.0,Medium,Manyata Tech Park
+500-D,Hebbal,5,Friday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Nagawara,22,Wednesday,0,60,21,35.0,Low,Manyata Tech Park
+500-D,Nagawara,6,Thursday,0,55,14,25.5,Low,Manyata Tech Park
+290-B,Manyata Tech Park,17,Monday,0,60,42,70.0,Medium,Manyata Tech Park
+500-D,Nagawara,7,Thursday,0,60,39,65.0,Medium,Manyata Tech Park
+500-D,Nagawara,21,Friday,0,60,0,0.0,Low,Manyata Tech Park
+290-E,Jakkur,18,Tuesday,0,55,50,90.9,High,Manyata Tech Park
+290-E,Yelahanka,5,Sunday,1,50,12,24.0,Low,Manyata Tech Park
+290-B,Thanisandra,7,Monday,0,55,41,74.5,High,Manyata Tech Park
+290-B,Nagawara,15,Monday,0,55,3,5.5,Low,Manyata Tech Park
+500-D,Hebbal,18,Wednesday,0,50,48,96.0,High,Manyata Tech Park
+290-B,Thanisandra,22,Friday,0,55,5,9.1,Low,Manyata Tech Park
+290-E,Thanisandra,19,Wednesday,0,60,41,68.3,Medium,Manyata Tech Park
+500-D,Nagawara,6,Friday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,15,Monday,0,55,23,41.8,Medium,Manyata Tech Park
+290-B,Thanisandra,10,Thursday,0,60,37,61.7,Medium,Manyata Tech Park
+500-D,Nagawara,12,Tuesday,0,60,27,45.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,9,Saturday,1,55,22,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,22,Wednesday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Wednesday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Jakkur,17,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Friday,0,50,21,42.0,Medium,Manyata Tech Park
+500-D,Hebbal,8,Sunday,1,60,44,73.3,High,Manyata Tech Park
+500-D,Veerannapalya,14,Thursday,0,60,25,41.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,5,Tuesday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Nagawara,13,Saturday,1,55,31,56.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Sunday,1,55,28,50.9,Medium,Manyata Tech Park
+500-D,Hebbal,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,17,Friday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Hebbal,9,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Jakkur,17,Thursday,0,55,34,61.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,15,Monday,0,55,33,60.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,17,Thursday,0,50,40,80.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Nagawara,11,Wednesday,0,55,24,43.6,Medium,Manyata Tech Park
+500-D,Hebbal,19,Friday,0,55,46,83.6,High,Manyata Tech Park
+500-D,Veerannapalya,21,Sunday,1,60,10,16.7,Low,Manyata Tech Park
+500-D,Hebbal,13,Saturday,1,50,11,22.0,Low,Manyata Tech Park
+290-E,Yelahanka,20,Thursday,0,50,5,10.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,21,Tuesday,0,50,12,24.0,Low,Manyata Tech Park
+290-E,Jakkur,5,Thursday,0,50,10,20.0,Low,Manyata Tech Park
+290-E,Jakkur,13,Saturday,1,55,15,27.3,Low,Manyata Tech Park
+290-E,Jakkur,16,Tuesday,0,60,37,61.7,Medium,Manyata Tech Park
+290-E,Yelahanka,12,Tuesday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Thanisandra,6,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,18,Thursday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Jakkur,11,Friday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Veerannapalya,22,Sunday,1,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Monday,0,60,27,45.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,11,Friday,0,60,34,56.7,Medium,Manyata Tech Park
+290-E,Jakkur,7,Saturday,1,50,23,46.0,Medium,Manyata Tech Park
+500-D,Hebbal,22,Monday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,17,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Monday,0,60,2,3.3,Low,Manyata Tech Park
+500-D,Nagawara,13,Friday,0,55,15,27.3,Low,Manyata Tech Park
+290-B,Nagawara,17,Thursday,0,55,31,56.4,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Saturday,1,55,9,16.4,Low,Manyata Tech Park
+290-E,Manyata Tech Park,12,Sunday,1,60,16,26.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,8,Sunday,1,60,57,95.0,High,Manyata Tech Park
+290-E,Thanisandra,8,Wednesday,0,50,40,80.0,High,Manyata Tech Park
+290-B,Thanisandra,7,Tuesday,0,60,33,55.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Tuesday,0,60,4,6.7,Low,Manyata Tech Park
+500-D,Nagawara,16,Tuesday,0,60,33,55.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,12,Friday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Yelahanka,19,Thursday,0,50,32,64.0,Medium,Manyata Tech Park
+290-B,Thanisandra,18,Wednesday,0,50,49,98.0,High,Manyata Tech Park
+290-E,Thanisandra,12,Thursday,0,55,34,61.8,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,9,Thursday,0,60,39,65.0,Medium,Manyata Tech Park
+290-E,Thanisandra,9,Saturday,1,60,28,46.7,Medium,Manyata Tech Park
+290-B,Thanisandra,19,Wednesday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Jakkur,21,Saturday,1,60,11,18.3,Low,Manyata Tech Park
+290-E,Thanisandra,18,Saturday,1,55,39,70.9,High,Manyata Tech Park
+500-D,Hebbal,18,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Thanisandra,9,Thursday,0,55,46,83.6,High,Manyata Tech Park
+290-E,Thanisandra,15,Monday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Nagawara,17,Sunday,1,50,29,58.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,7,Friday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Hebbal,22,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,17,Friday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,22,Monday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Yelahanka,8,Tuesday,0,55,51,92.7,High,Manyata Tech Park
+500-D,Veerannapalya,21,Tuesday,0,60,13,21.7,Low,Manyata Tech Park
+500-D,Hebbal,10,Friday,0,60,30,50.0,Medium,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,50,35,70.0,Medium,Manyata Tech Park
+290-B,Thanisandra,17,Thursday,0,60,56,93.3,High,Manyata Tech Park
+290-E,Manyata Tech Park,16,Saturday,1,50,18,36.0,Medium,Manyata Tech Park
+290-B,Thanisandra,19,Thursday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Manyata Tech Park,5,Wednesday,0,50,29,58.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,7,Monday,0,60,59,98.3,High,Manyata Tech Park
+500-D,Veerannapalya,20,Wednesday,0,50,16,32.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Tuesday,0,55,48,87.3,High,Manyata Tech Park
+290-B,Manyata Tech Park,5,Tuesday,0,60,1,1.7,Low,Manyata Tech Park
+290-E,Manyata Tech Park,15,Monday,0,50,6,12.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,11,Saturday,1,50,19,38.0,Medium,Manyata Tech Park
+290-E,Yelahanka,21,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Tuesday,0,60,59,98.3,High,Manyata Tech Park
+500-D,Manyata Tech Park,13,Friday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,18,Friday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,19,Thursday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Hebbal,12,Thursday,0,60,11,18.3,Low,Manyata Tech Park
+500-D,Nagawara,7,Monday,0,50,47,94.0,High,Manyata Tech Park
+500-D,Hebbal,21,Friday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Wednesday,0,55,45,81.8,High,Manyata Tech Park
+500-D,Veerannapalya,7,Friday,0,60,36,60.0,Medium,Manyata Tech Park
+290-E,Jakkur,12,Thursday,0,55,6,10.9,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Friday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Yelahanka,18,Saturday,1,55,42,76.4,High,Manyata Tech Park
+500-D,Hebbal,20,Sunday,1,55,40,72.7,High,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Friday,0,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Friday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Hebbal,22,Friday,0,55,17,30.9,Low,Manyata Tech Park
+500-D,Hebbal,5,Tuesday,0,55,31,56.4,Medium,Manyata Tech Park
+290-B,Nagawara,14,Thursday,0,60,23,38.3,Medium,Manyata Tech Park
+290-E,Yelahanka,9,Friday,0,50,49,98.0,High,Manyata Tech Park
+500-D,Nagawara,13,Monday,0,55,9,16.4,Low,Manyata Tech Park
+500-D,Nagawara,8,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,20,Wednesday,0,60,30,50.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Thursday,0,50,47,94.0,High,Manyata Tech Park
+290-B,Nagawara,12,Sunday,1,50,7,14.0,Low,Manyata Tech Park
+290-E,Jakkur,12,Saturday,1,55,7,12.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Wednesday,0,55,11,20.0,Low,Manyata Tech Park
+290-B,Nagawara,13,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+290-B,Thanisandra,5,Sunday,1,60,14,23.3,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,17,Wednesday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,14,Tuesday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Friday,0,60,51,85.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Thursday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Veerannapalya,21,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Thanisandra,13,Monday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,20,Friday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Jakkur,7,Wednesday,0,55,26,47.3,Medium,Manyata Tech Park
+290-E,Thanisandra,15,Saturday,1,50,20,40.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Monday,0,50,9,18.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,22,Tuesday,0,55,11,20.0,Low,Manyata Tech Park
+290-E,Thanisandra,20,Wednesday,0,50,31,62.0,Medium,Manyata Tech Park
+290-B,Thanisandra,13,Wednesday,0,50,16,32.0,Low,Manyata Tech Park
+290-B,Thanisandra,14,Friday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,21,Sunday,1,60,24,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Wednesday,0,50,14,28.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,21,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,7,Thursday,0,55,48,87.3,High,Manyata Tech Park
+500-D,Hebbal,19,Friday,0,50,44,88.0,High,Manyata Tech Park
+290-E,Thanisandra,17,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Monday,0,55,7,12.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,7,Friday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,9,Tuesday,0,50,44,88.0,High,Manyata Tech Park
+500-D,Nagawara,10,Sunday,1,55,20,36.4,Medium,Manyata Tech Park
+290-E,Thanisandra,5,Wednesday,0,55,10,18.2,Low,Manyata Tech Park
+290-B,Nagawara,13,Tuesday,0,60,5,8.3,Low,Manyata Tech Park
+290-B,Nagawara,16,Thursday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,Nagawara,16,Monday,0,55,21,38.2,Medium,Manyata Tech Park
+290-B,Nagawara,17,Wednesday,0,50,43,86.0,High,Manyata Tech Park
+290-E,Jakkur,6,Wednesday,0,50,16,32.0,Low,Manyata Tech Park
+500-D,Nagawara,15,Saturday,1,55,27,49.1,Medium,Manyata Tech Park
+290-B,Thanisandra,15,Friday,0,50,17,34.0,Low,Manyata Tech Park
+500-D,Hebbal,6,Wednesday,0,50,20,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,6,Monday,0,50,22,44.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,12,Monday,0,55,10,18.2,Low,Manyata Tech Park
+290-B,Manyata Tech Park,5,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Thanisandra,5,Sunday,1,50,8,16.0,Low,Manyata Tech Park
+500-D,Hebbal,10,Tuesday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Jakkur,11,Friday,0,55,26,47.3,Medium,Manyata Tech Park
+290-B,Nagawara,10,Thursday,0,60,50,83.3,High,Manyata Tech Park
+290-B,Nagawara,21,Wednesday,0,55,8,14.5,Low,Manyata Tech Park
+500-D,Nagawara,14,Wednesday,0,55,4,7.3,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Friday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Jakkur,11,Wednesday,0,50,19,38.0,Medium,Manyata Tech Park
+290-E,Yelahanka,13,Wednesday,0,50,22,44.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Monday,0,55,13,23.6,Low,Manyata Tech Park
+290-E,Jakkur,10,Friday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Nagawara,7,Tuesday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Veerannapalya,16,Wednesday,0,50,33,66.0,Medium,Manyata Tech Park
+500-D,Nagawara,8,Thursday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,5,Friday,0,60,17,28.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,7,Friday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Yelahanka,15,Saturday,1,55,9,16.4,Low,Manyata Tech Park
+290-E,Yelahanka,13,Friday,0,60,12,20.0,Low,Manyata Tech Park
+290-E,Yelahanka,11,Wednesday,0,55,2,3.6,Low,Manyata Tech Park
+500-D,Hebbal,10,Thursday,0,55,42,76.4,High,Manyata Tech Park
+290-B,Thanisandra,6,Tuesday,0,60,14,23.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,13,Wednesday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Sunday,1,55,31,56.4,Medium,Manyata Tech Park
+290-E,Jakkur,11,Thursday,0,50,26,52.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,17,Friday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,8,Thursday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,14,Thursday,0,50,25,50.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,14,Friday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,15,Tuesday,0,60,26,43.3,Medium,Manyata Tech Park
+500-D,Hebbal,5,Saturday,1,60,19,31.7,Low,Manyata Tech Park
+290-E,Jakkur,7,Friday,0,60,34,56.7,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Thursday,0,55,30,54.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,14,Sunday,1,60,18,30.0,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Wednesday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,22,Thursday,0,50,14,28.0,Low,Manyata Tech Park
+290-B,Thanisandra,10,Monday,0,60,27,45.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Nagawara,11,Monday,0,60,18,30.0,Low,Manyata Tech Park
+290-B,Thanisandra,6,Friday,0,50,14,28.0,Low,Manyata Tech Park
+290-E,Thanisandra,10,Monday,0,55,29,52.7,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,10,Monday,0,55,39,70.9,High,Manyata Tech Park
+290-E,Manyata Tech Park,17,Sunday,1,55,21,38.2,Medium,Manyata Tech Park
+290-E,Thanisandra,18,Wednesday,0,60,57,95.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,18,Tuesday,0,50,48,96.0,High,Manyata Tech Park
+500-D,Nagawara,20,Monday,0,50,37,74.0,High,Manyata Tech Park
+500-D,Nagawara,20,Monday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Hebbal,20,Thursday,0,50,39,78.0,High,Manyata Tech Park
+290-B,Thanisandra,19,Wednesday,0,60,21,35.0,Low,Manyata Tech Park
+290-E,Thanisandra,18,Sunday,1,55,19,34.5,Low,Manyata Tech Park
+290-E,Thanisandra,14,Friday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Veerannapalya,5,Friday,0,60,5,8.3,Low,Manyata Tech Park
+500-D,Nagawara,10,Saturday,1,55,8,14.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Wednesday,0,50,18,36.0,Medium,Manyata Tech Park
+290-B,Nagawara,18,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Nagawara,21,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,10,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+500-D,Veerannapalya,21,Sunday,1,55,12,21.8,Low,Manyata Tech Park
+290-B,Nagawara,21,Tuesday,0,55,3,5.5,Low,Manyata Tech Park
+500-D,Hebbal,18,Saturday,1,55,51,92.7,High,Manyata Tech Park
+500-D,Nagawara,18,Monday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Thanisandra,14,Monday,0,60,14,23.3,Low,Manyata Tech Park
+500-D,Nagawara,10,Thursday,0,60,34,56.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,20,Tuesday,0,60,23,38.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,7,Saturday,1,50,32,64.0,Medium,Manyata Tech Park
+290-B,Nagawara,10,Thursday,0,55,22,40.0,Medium,Manyata Tech Park
+290-B,Thanisandra,21,Tuesday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Thanisandra,5,Tuesday,0,50,13,26.0,Low,Manyata Tech Park
+290-B,Nagawara,12,Saturday,1,60,19,31.7,Low,Manyata Tech Park
+500-D,Nagawara,19,Friday,0,50,33,66.0,Medium,Manyata Tech Park
+290-B,Nagawara,15,Monday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Tuesday,0,50,17,34.0,Low,Manyata Tech Park
+290-E,Jakkur,9,Monday,0,55,31,56.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,22,Friday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Saturday,1,60,14,23.3,Low,Manyata Tech Park
+290-B,Nagawara,10,Wednesday,0,55,17,30.9,Low,Manyata Tech Park
+500-D,Manyata Tech Park,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,14,Sunday,1,60,22,36.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,7,Sunday,1,55,27,49.1,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Saturday,1,50,29,58.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,8,Monday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Tuesday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Manyata Tech Park,16,Saturday,1,55,28,50.9,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,7,Thursday,0,50,35,70.0,Medium,Manyata Tech Park
+500-D,Nagawara,18,Sunday,1,50,29,58.0,Medium,Manyata Tech Park
+500-D,Nagawara,10,Tuesday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Sunday,1,55,21,38.2,Medium,Manyata Tech Park
+500-D,Veerannapalya,8,Tuesday,0,60,52,86.7,High,Manyata Tech Park
+500-D,Nagawara,20,Monday,0,50,38,76.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Wednesday,0,60,29,48.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,6,Monday,0,55,7,12.7,Low,Manyata Tech Park
+290-E,Jakkur,11,Wednesday,0,60,11,18.3,Low,Manyata Tech Park
+290-B,Nagawara,16,Tuesday,0,60,17,28.3,Low,Manyata Tech Park
+290-E,Jakkur,17,Monday,0,55,35,63.6,Medium,Manyata Tech Park
+290-E,Jakkur,16,Tuesday,0,55,43,78.2,High,Manyata Tech Park
+290-E,Manyata Tech Park,7,Thursday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,Nagawara,15,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Veerannapalya,10,Thursday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,16,Wednesday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Nagawara,19,Friday,0,50,49,98.0,High,Manyata Tech Park
+290-E,Yelahanka,17,Tuesday,0,55,39,70.9,High,Manyata Tech Park
+290-E,Yelahanka,6,Friday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Hebbal,14,Friday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,16,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,6,Saturday,1,55,13,23.6,Low,Manyata Tech Park
+290-E,Jakkur,7,Friday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,9,Sunday,1,60,35,58.3,Medium,Manyata Tech Park
+500-D,Nagawara,9,Friday,0,50,47,94.0,High,Manyata Tech Park
+290-B,Nagawara,9,Saturday,1,60,42,70.0,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Tuesday,0,60,16,26.7,Low,Manyata Tech Park
+500-D,Nagawara,10,Wednesday,0,50,39,78.0,High,Manyata Tech Park
+290-E,Thanisandra,9,Thursday,0,55,40,72.7,High,Manyata Tech Park
+290-B,Manyata Tech Park,6,Monday,0,50,20,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,6,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+290-B,Nagawara,19,Wednesday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Monday,0,50,26,52.0,Medium,Manyata Tech Park
+290-B,Thanisandra,10,Monday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,17,Thursday,0,60,51,85.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,5,Tuesday,0,55,0,0.0,Low,Manyata Tech Park
+290-E,Yelahanka,17,Wednesday,0,55,35,63.6,Medium,Manyata Tech Park
+290-E,Yelahanka,12,Friday,0,50,6,12.0,Low,Manyata Tech Park
+290-B,Thanisandra,13,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Hebbal,19,Wednesday,0,55,32,58.2,Medium,Manyata Tech Park
+500-D,Nagawara,8,Saturday,1,60,37,61.7,Medium,Manyata Tech Park
+500-D,Hebbal,14,Saturday,1,60,11,18.3,Low,Manyata Tech Park
+500-D,Nagawara,9,Thursday,0,55,51,92.7,High,Manyata Tech Park
+500-D,Hebbal,15,Wednesday,0,55,32,58.2,Medium,Manyata Tech Park
+290-B,Thanisandra,5,Wednesday,0,55,11,20.0,Low,Manyata Tech Park
+500-D,Veerannapalya,22,Friday,0,60,24,40.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,18,Saturday,1,60,26,43.3,Medium,Manyata Tech Park
+290-E,Jakkur,22,Sunday,1,55,6,10.9,Low,Manyata Tech Park
+290-E,Thanisandra,10,Thursday,0,60,22,36.7,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,8,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Yelahanka,12,Wednesday,0,50,19,38.0,Medium,Manyata Tech Park
+290-E,Yelahanka,13,Monday,0,55,17,30.9,Low,Manyata Tech Park
+290-B,Manyata Tech Park,19,Sunday,1,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,15,Wednesday,0,50,17,34.0,Low,Manyata Tech Park
+290-E,Yelahanka,14,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Friday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Hebbal,13,Monday,0,60,20,33.3,Low,Manyata Tech Park
+290-E,Yelahanka,17,Friday,0,50,40,80.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,12,Monday,0,50,19,38.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,14,Friday,0,60,21,35.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,19,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+290-B,Thanisandra,20,Thursday,0,60,19,31.7,Low,Manyata Tech Park
+500-D,Nagawara,5,Friday,0,50,5,10.0,Low,Manyata Tech Park
+500-D,Hebbal,20,Thursday,0,55,30,54.5,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Thursday,0,55,42,76.4,High,Manyata Tech Park
+500-D,Nagawara,12,Monday,0,60,30,50.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,9,Wednesday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Hebbal,14,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+290-B,Nagawara,18,Saturday,1,60,16,26.7,Low,Manyata Tech Park
+290-E,Jakkur,14,Tuesday,0,50,30,60.0,Medium,Manyata Tech Park
+290-E,Thanisandra,21,Thursday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,22,Wednesday,0,50,18,36.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Thursday,0,50,39,78.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,6,Monday,0,60,33,55.0,Medium,Manyata Tech Park
+290-E,Yelahanka,7,Friday,0,60,30,50.0,Medium,Manyata Tech Park
+290-E,Jakkur,19,Monday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Hebbal,11,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Sunday,1,55,28,50.9,Medium,Manyata Tech Park
+500-D,Hebbal,12,Thursday,0,50,7,14.0,Low,Manyata Tech Park
+500-D,Nagawara,15,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Nagawara,8,Friday,0,55,50,90.9,High,Manyata Tech Park
+290-E,Manyata Tech Park,19,Tuesday,0,50,36,72.0,High,Manyata Tech Park
+500-D,Hebbal,18,Tuesday,0,55,54,98.2,High,Manyata Tech Park
+290-B,Manyata Tech Park,17,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,21,Friday,0,55,11,20.0,Low,Manyata Tech Park
+500-D,Veerannapalya,20,Tuesday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Thanisandra,21,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,21,Saturday,1,50,5,10.0,Low,Manyata Tech Park
+500-D,Veerannapalya,21,Saturday,1,55,6,10.9,Low,Manyata Tech Park
+290-E,Thanisandra,16,Monday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Nagawara,19,Sunday,1,55,24,43.6,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,10,Friday,0,50,49,98.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,20,Tuesday,0,55,34,61.8,Medium,Manyata Tech Park
+290-B,Nagawara,20,Friday,0,50,44,88.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Tuesday,0,60,9,15.0,Low,Manyata Tech Park
+500-D,Nagawara,15,Wednesday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Nagawara,10,Sunday,1,60,22,36.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,12,Sunday,1,60,7,11.7,Low,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,55,25,45.5,Medium,Manyata Tech Park
+290-B,Nagawara,10,Wednesday,0,60,38,63.3,Medium,Manyata Tech Park
+500-D,Hebbal,12,Tuesday,0,50,26,52.0,Medium,Manyata Tech Park
+500-D,Nagawara,10,Saturday,1,50,24,48.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Thursday,0,55,50,90.9,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Nagawara,14,Saturday,1,55,15,27.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Monday,0,55,45,81.8,High,Manyata Tech Park
+290-E,Jakkur,7,Monday,0,55,41,74.5,High,Manyata Tech Park
+500-D,Veerannapalya,16,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,22,Saturday,1,60,9,15.0,Low,Manyata Tech Park
+290-B,Nagawara,13,Tuesday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Jakkur,12,Wednesday,0,60,13,21.7,Low,Manyata Tech Park
+500-D,Nagawara,20,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Wednesday,0,60,19,31.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Saturday,1,50,9,18.0,Low,Manyata Tech Park
+290-B,Nagawara,8,Wednesday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Hebbal,21,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,Nagawara,20,Friday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Hebbal,7,Saturday,1,55,21,38.2,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Tuesday,0,55,27,49.1,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Thursday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Nagawara,9,Wednesday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Nagawara,15,Thursday,0,50,23,46.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,13,Friday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Manyata Tech Park,5,Tuesday,0,50,18,36.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,10,Thursday,0,55,50,90.9,High,Manyata Tech Park
+290-B,Nagawara,21,Wednesday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Yelahanka,17,Tuesday,0,50,19,38.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,15,Tuesday,0,50,17,34.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,5,Wednesday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Veerannapalya,21,Tuesday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Sunday,1,55,7,12.7,Low,Manyata Tech Park
+500-D,Hebbal,7,Tuesday,0,60,42,70.0,Medium,Manyata Tech Park
+290-E,Jakkur,17,Saturday,1,55,18,32.7,Low,Manyata Tech Park
+290-E,Thanisandra,15,Thursday,0,55,26,47.3,Medium,Manyata Tech Park
+290-B,Thanisandra,22,Saturday,1,50,4,8.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Saturday,1,60,3,5.0,Low,Manyata Tech Park
+500-D,Veerannapalya,10,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Hebbal,7,Monday,0,50,31,62.0,Medium,Manyata Tech Park
+290-B,Nagawara,22,Saturday,1,55,15,27.3,Low,Manyata Tech Park
+290-E,Thanisandra,6,Wednesday,0,60,19,31.7,Low,Manyata Tech Park
+500-D,Veerannapalya,13,Saturday,1,50,21,42.0,Medium,Manyata Tech Park
+290-E,Yelahanka,7,Thursday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,14,Tuesday,0,50,21,42.0,Medium,Manyata Tech Park
+290-E,Jakkur,15,Tuesday,0,60,7,11.7,Low,Manyata Tech Park
+290-E,Manyata Tech Park,6,Monday,0,55,25,45.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Friday,0,50,27,54.0,Medium,Manyata Tech Park
+290-E,Jakkur,22,Wednesday,0,60,22,36.7,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,9,Friday,0,60,50,83.3,High,Manyata Tech Park
+290-B,Manyata Tech Park,9,Friday,0,60,39,65.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,20,Thursday,0,60,40,66.7,Medium,Manyata Tech Park
+290-B,Nagawara,18,Monday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Thanisandra,14,Saturday,1,60,20,33.3,Low,Manyata Tech Park
+500-D,Hebbal,18,Wednesday,0,60,59,98.3,High,Manyata Tech Park
+290-E,Manyata Tech Park,20,Sunday,1,55,7,12.7,Low,Manyata Tech Park
+500-D,Veerannapalya,20,Saturday,1,60,20,33.3,Low,Manyata Tech Park
+290-B,Thanisandra,10,Saturday,1,55,19,34.5,Low,Manyata Tech Park
+290-E,Thanisandra,21,Friday,0,60,8,13.3,Low,Manyata Tech Park
+500-D,Veerannapalya,12,Friday,0,60,5,8.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Thursday,0,50,27,54.0,Medium,Manyata Tech Park
+290-E,Yelahanka,22,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Nagawara,22,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,16,Saturday,1,60,42,70.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,7,Saturday,1,55,29,52.7,Medium,Manyata Tech Park
+290-B,Thanisandra,13,Tuesday,0,60,22,36.7,Medium,Manyata Tech Park
+500-D,Nagawara,12,Friday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,6,Tuesday,0,60,14,23.3,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Sunday,1,55,19,34.5,Low,Manyata Tech Park
+290-E,Yelahanka,21,Saturday,1,50,2,4.0,Low,Manyata Tech Park
+290-E,Jakkur,16,Friday,0,55,26,47.3,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,19,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Friday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,7,Monday,0,55,35,63.6,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Wednesday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Hebbal,10,Tuesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Jakkur,16,Wednesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-E,Jakkur,14,Tuesday,0,50,26,52.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,19,Wednesday,0,55,45,81.8,High,Manyata Tech Park
+290-E,Yelahanka,5,Friday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Hebbal,9,Wednesday,0,55,54,98.2,High,Manyata Tech Park
+500-D,Nagawara,8,Monday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,16,Sunday,1,50,25,50.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,20,Friday,0,60,39,65.0,Medium,Manyata Tech Park
+500-D,Nagawara,16,Saturday,1,50,26,52.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,7,Thursday,0,50,32,64.0,Medium,Manyata Tech Park
+500-D,Nagawara,6,Tuesday,0,50,18,36.0,Medium,Manyata Tech Park
+290-B,Thanisandra,8,Friday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,9,Wednesday,0,55,46,83.6,High,Manyata Tech Park
+290-B,Nagawara,14,Wednesday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Jakkur,18,Sunday,1,50,19,38.0,Medium,Manyata Tech Park
+290-B,Thanisandra,8,Monday,0,55,46,83.6,High,Manyata Tech Park
+500-D,Veerannapalya,7,Saturday,1,50,21,42.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Monday,0,55,46,83.6,High,Manyata Tech Park
+500-D,Manyata Tech Park,5,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-B,Nagawara,11,Tuesday,0,55,7,12.7,Low,Manyata Tech Park
+500-D,Veerannapalya,20,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Wednesday,0,60,10,16.7,Low,Manyata Tech Park
+290-B,Thanisandra,17,Monday,0,60,42,70.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,6,Sunday,1,55,5,9.1,Low,Manyata Tech Park
+290-E,Thanisandra,14,Thursday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Nagawara,16,Sunday,1,55,26,47.3,Medium,Manyata Tech Park
+290-E,Jakkur,6,Friday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,18,Saturday,1,60,37,61.7,Medium,Manyata Tech Park
+290-B,Thanisandra,6,Sunday,1,50,11,22.0,Low,Manyata Tech Park
+500-D,Nagawara,17,Monday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Thanisandra,5,Wednesday,0,60,19,31.7,Low,Manyata Tech Park
+290-B,Thanisandra,11,Thursday,0,60,11,18.3,Low,Manyata Tech Park
+290-B,Nagawara,10,Monday,0,60,31,51.7,Medium,Manyata Tech Park
+500-D,Hebbal,7,Wednesday,0,50,43,86.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,13,Friday,0,55,12,21.8,Low,Manyata Tech Park
+290-B,Nagawara,10,Saturday,1,60,23,38.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,15,Monday,0,55,14,25.5,Low,Manyata Tech Park
+290-E,Manyata Tech Park,8,Saturday,1,60,43,71.7,High,Manyata Tech Park
+500-D,Nagawara,17,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Jakkur,7,Saturday,1,55,24,43.6,Medium,Manyata Tech Park
+500-D,Nagawara,10,Saturday,1,50,26,52.0,Medium,Manyata Tech Park
+290-B,Thanisandra,19,Monday,0,60,47,78.3,High,Manyata Tech Park
+290-E,Manyata Tech Park,14,Friday,0,60,0,0.0,Low,Manyata Tech Park
+500-D,Nagawara,10,Monday,0,60,35,58.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,20,Thursday,0,50,29,58.0,Medium,Manyata Tech Park
+290-E,Thanisandra,10,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Hebbal,7,Thursday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Hebbal,13,Thursday,0,50,21,42.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,21,Tuesday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Hebbal,19,Saturday,1,55,34,61.8,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,5,Thursday,0,50,11,22.0,Low,Manyata Tech Park
+500-D,Veerannapalya,22,Monday,0,60,7,11.7,Low,Manyata Tech Park
+290-E,Jakkur,8,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Nagawara,13,Tuesday,0,50,23,46.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,12,Thursday,0,50,13,26.0,Low,Manyata Tech Park
+500-D,Nagawara,18,Monday,0,60,43,71.7,High,Manyata Tech Park
+290-B,Nagawara,19,Monday,0,50,40,80.0,High,Manyata Tech Park
+290-E,Thanisandra,9,Wednesday,0,55,34,61.8,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,9,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Yelahanka,8,Saturday,1,60,26,43.3,Medium,Manyata Tech Park
+500-D,Hebbal,17,Monday,0,60,46,76.7,High,Manyata Tech Park
+290-B,Nagawara,5,Friday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Manyata Tech Park,14,Tuesday,0,50,27,54.0,Medium,Manyata Tech Park
+290-B,Thanisandra,8,Monday,0,50,50,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Sunday,1,50,16,32.0,Low,Manyata Tech Park
+290-E,Thanisandra,6,Tuesday,0,50,18,36.0,Medium,Manyata Tech Park
+290-E,Thanisandra,21,Sunday,1,55,5,9.1,Low,Manyata Tech Park
+500-D,Nagawara,8,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Friday,0,50,19,38.0,Medium,Manyata Tech Park
+290-E,Jakkur,7,Tuesday,0,55,39,70.9,High,Manyata Tech Park
+290-E,Jakkur,11,Thursday,0,60,14,23.3,Low,Manyata Tech Park
+290-E,Thanisandra,15,Friday,0,50,6,12.0,Low,Manyata Tech Park
+500-D,Veerannapalya,15,Monday,0,60,7,11.7,Low,Manyata Tech Park
+290-B,Thanisandra,22,Friday,0,55,9,16.4,Low,Manyata Tech Park
+290-E,Yelahanka,8,Tuesday,0,55,48,87.3,High,Manyata Tech Park
+290-B,RK Hegde Nagar,15,Friday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Jakkur,19,Tuesday,0,60,15,25.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,16,Wednesday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Wednesday,0,55,49,89.1,High,Manyata Tech Park
+500-D,Nagawara,16,Monday,0,55,26,47.3,Medium,Manyata Tech Park
+290-B,Nagawara,21,Wednesday,0,50,17,34.0,Low,Manyata Tech Park
+290-B,Thanisandra,12,Thursday,0,50,18,36.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,22,Monday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,17,Saturday,1,50,47,94.0,High,Manyata Tech Park
+290-E,Thanisandra,16,Wednesday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Veerannapalya,10,Wednesday,0,60,19,31.7,Low,Manyata Tech Park
+290-E,Yelahanka,6,Wednesday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Sunday,1,55,13,23.6,Low,Manyata Tech Park
+500-D,Veerannapalya,16,Wednesday,0,50,34,68.0,Medium,Manyata Tech Park
+290-E,Thanisandra,18,Saturday,1,50,27,54.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Sunday,1,55,31,56.4,Medium,Manyata Tech Park
+290-B,Nagawara,13,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Sunday,1,55,15,27.3,Low,Manyata Tech Park
+290-B,Nagawara,22,Thursday,0,60,6,10.0,Low,Manyata Tech Park
+290-E,Jakkur,21,Sunday,1,50,12,24.0,Low,Manyata Tech Park
+500-D,Nagawara,9,Saturday,1,55,34,61.8,Medium,Manyata Tech Park
+290-E,Yelahanka,20,Tuesday,0,55,15,27.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,10,Thursday,0,55,51,92.7,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Thursday,0,60,19,31.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Wednesday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,6,Sunday,1,55,15,27.3,Low,Manyata Tech Park
+500-D,Nagawara,15,Tuesday,0,60,21,35.0,Low,Manyata Tech Park
+500-D,Veerannapalya,11,Sunday,1,55,13,23.6,Low,Manyata Tech Park
+500-D,Nagawara,17,Thursday,0,60,40,66.7,Medium,Manyata Tech Park
+500-D,Hebbal,9,Wednesday,0,55,48,87.3,High,Manyata Tech Park
+290-B,Nagawara,17,Friday,0,60,38,63.3,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,10,Friday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Hebbal,8,Thursday,0,60,60,100.0,High,Manyata Tech Park
+290-B,Nagawara,14,Saturday,1,55,23,41.8,Medium,Manyata Tech Park
+290-E,Thanisandra,11,Tuesday,0,60,28,46.7,Medium,Manyata Tech Park
+290-E,Yelahanka,5,Saturday,1,55,0,0.0,Low,Manyata Tech Park
+500-D,Veerannapalya,9,Tuesday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Veerannapalya,21,Thursday,0,55,35,63.6,Medium,Manyata Tech Park
+500-D,Nagawara,13,Tuesday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Nagawara,16,Wednesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Friday,0,55,46,83.6,High,Manyata Tech Park
+500-D,Hebbal,18,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Nagawara,6,Tuesday,0,55,8,14.5,Low,Manyata Tech Park
+290-B,Nagawara,6,Wednesday,0,60,0,0.0,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Monday,0,60,43,71.7,High,Manyata Tech Park
+500-D,Hebbal,22,Thursday,0,50,22,44.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,8,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,20,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Jakkur,17,Wednesday,0,50,44,88.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,9,Wednesday,0,60,55,91.7,High,Manyata Tech Park
+500-D,Veerannapalya,7,Tuesday,0,55,38,69.1,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,9,Thursday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,15,Monday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Hebbal,13,Friday,0,60,17,28.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Thursday,0,50,28,56.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,10,Thursday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Yelahanka,12,Sunday,1,55,10,18.2,Low,Manyata Tech Park
+500-D,Nagawara,22,Saturday,1,60,12,20.0,Low,Manyata Tech Park
+500-D,Hebbal,7,Monday,0,55,49,89.1,High,Manyata Tech Park
+290-B,Thanisandra,15,Friday,0,50,20,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Friday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Yelahanka,15,Saturday,1,55,7,12.7,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Friday,0,50,12,24.0,Low,Manyata Tech Park
+500-D,Nagawara,10,Tuesday,0,60,41,68.3,Medium,Manyata Tech Park
+500-D,Hebbal,18,Friday,0,60,57,95.0,High,Manyata Tech Park
+290-E,Yelahanka,14,Wednesday,0,60,14,23.3,Low,Manyata Tech Park
+500-D,Veerannapalya,6,Thursday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Thanisandra,14,Friday,0,55,13,23.6,Low,Manyata Tech Park
+290-E,Thanisandra,14,Monday,0,55,7,12.7,Low,Manyata Tech Park
+290-B,Thanisandra,5,Saturday,1,60,9,15.0,Low,Manyata Tech Park
+500-D,Hebbal,6,Thursday,0,50,41,82.0,High,Manyata Tech Park
+290-B,Nagawara,11,Friday,0,50,29,58.0,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Thursday,0,55,39,70.9,High,Manyata Tech Park
+290-E,Manyata Tech Park,19,Wednesday,0,50,41,82.0,High,Manyata Tech Park
+500-D,Hebbal,5,Wednesday,0,55,15,27.3,Low,Manyata Tech Park
+500-D,Veerannapalya,10,Friday,0,50,27,54.0,Medium,Manyata Tech Park
+500-D,Nagawara,15,Thursday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Nagawara,11,Saturday,1,55,8,14.5,Low,Manyata Tech Park
+290-E,Yelahanka,5,Friday,0,60,24,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,19,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,5,Friday,0,55,8,14.5,Low,Manyata Tech Park
+290-B,Manyata Tech Park,22,Thursday,0,55,15,27.3,Low,Manyata Tech Park
+500-D,Nagawara,10,Friday,0,60,39,65.0,Medium,Manyata Tech Park
+290-E,Yelahanka,22,Wednesday,0,50,24,48.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Monday,0,50,25,50.0,Medium,Manyata Tech Park
+290-E,Jakkur,19,Thursday,0,50,32,64.0,Medium,Manyata Tech Park
+290-B,Nagawara,21,Wednesday,0,60,13,21.7,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Friday,0,55,21,38.2,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,11,Sunday,1,50,23,46.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,7,Sunday,1,60,27,45.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Monday,0,60,37,61.7,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,17,Thursday,0,55,47,85.5,High,Manyata Tech Park
+290-B,Nagawara,8,Monday,0,60,51,85.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,10,Tuesday,0,50,26,52.0,Medium,Manyata Tech Park
+290-E,Thanisandra,16,Wednesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,Nagawara,20,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,10,Tuesday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Nagawara,22,Saturday,1,50,11,22.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,5,Monday,0,50,20,40.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Wednesday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Hebbal,22,Tuesday,0,60,19,31.7,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Monday,0,50,37,74.0,High,Manyata Tech Park
+290-B,Nagawara,18,Friday,0,60,51,85.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,12,Wednesday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Manyata Tech Park,6,Wednesday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Thanisandra,11,Friday,0,60,16,26.7,Low,Manyata Tech Park
+500-D,Veerannapalya,12,Monday,0,55,9,16.4,Low,Manyata Tech Park
+500-D,Nagawara,11,Monday,0,55,25,45.5,Medium,Manyata Tech Park
+290-E,Jakkur,11,Thursday,0,60,25,41.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Tuesday,0,55,4,7.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,19,Friday,0,50,34,68.0,Medium,Manyata Tech Park
+290-E,Thanisandra,20,Saturday,1,60,9,15.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,5,Monday,0,60,9,15.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Sunday,1,50,12,24.0,Low,Manyata Tech Park
+290-E,Jakkur,6,Tuesday,0,50,16,32.0,Low,Manyata Tech Park
+290-B,Thanisandra,19,Wednesday,0,50,48,96.0,High,Manyata Tech Park
+290-E,Thanisandra,13,Saturday,1,55,9,16.4,Low,Manyata Tech Park
+290-E,Manyata Tech Park,5,Tuesday,0,60,0,0.0,Low,Manyata Tech Park
+500-D,Veerannapalya,7,Sunday,1,60,34,56.7,Medium,Manyata Tech Park
+500-D,Nagawara,10,Tuesday,0,50,37,74.0,High,Manyata Tech Park
+500-D,Nagawara,15,Wednesday,0,50,34,68.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,21,Thursday,0,55,36,65.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,8,Tuesday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,18,Saturday,1,55,46,83.6,High,Manyata Tech Park
+500-D,Veerannapalya,9,Wednesday,0,50,46,92.0,High,Manyata Tech Park
+500-D,Nagawara,11,Monday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,21,Thursday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Jakkur,13,Friday,0,50,21,42.0,Medium,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,50,8,16.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,11,Monday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Thanisandra,9,Monday,0,50,41,82.0,High,Manyata Tech Park
+500-D,Hebbal,6,Wednesday,0,55,13,23.6,Low,Manyata Tech Park
+290-E,Manyata Tech Park,11,Friday,0,50,35,70.0,Medium,Manyata Tech Park
+500-D,Hebbal,10,Wednesday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Wednesday,0,60,30,50.0,Medium,Manyata Tech Park
+500-D,Hebbal,11,Thursday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,14,Tuesday,0,55,6,10.9,Low,Manyata Tech Park
+290-E,Thanisandra,20,Monday,0,55,30,54.5,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,6,Friday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Veerannapalya,5,Tuesday,0,50,3,6.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Wednesday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Manyata Tech Park,9,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,5,Tuesday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Nagawara,5,Sunday,1,55,1,1.8,Low,Manyata Tech Park
+290-B,Nagawara,10,Wednesday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Thursday,0,55,39,70.9,High,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Wednesday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Manyata Tech Park,16,Thursday,0,55,24,43.6,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Thursday,0,55,25,45.5,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Thanisandra,5,Tuesday,0,60,15,25.0,Low,Manyata Tech Park
+500-D,Veerannapalya,5,Saturday,1,55,16,29.1,Low,Manyata Tech Park
+500-D,Veerannapalya,10,Thursday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Nagawara,13,Tuesday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Jakkur,6,Wednesday,0,60,21,35.0,Low,Manyata Tech Park
+500-D,Hebbal,22,Saturday,1,55,31,56.4,Medium,Manyata Tech Park
+500-D,Hebbal,16,Monday,0,60,12,20.0,Low,Manyata Tech Park
+500-D,Veerannapalya,22,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Thanisandra,13,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,15,Monday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Nagawara,20,Wednesday,0,55,40,72.7,High,Manyata Tech Park
+290-B,Thanisandra,5,Friday,0,50,6,12.0,Low,Manyata Tech Park
+500-D,Nagawara,7,Thursday,0,60,41,68.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,20,Sunday,1,60,15,25.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Thursday,0,55,37,67.3,Medium,Manyata Tech Park
+500-D,Hebbal,22,Monday,0,50,12,24.0,Low,Manyata Tech Park
+500-D,Hebbal,10,Monday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Nagawara,13,Saturday,1,60,21,35.0,Low,Manyata Tech Park
+290-E,Thanisandra,7,Friday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Hebbal,12,Saturday,1,60,12,20.0,Low,Manyata Tech Park
+500-D,Nagawara,13,Tuesday,0,50,23,46.0,Medium,Manyata Tech Park
+290-E,Jakkur,10,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Jakkur,13,Wednesday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Thanisandra,7,Tuesday,0,55,48,87.3,High,Manyata Tech Park
+290-B,Nagawara,21,Sunday,1,60,14,23.3,Low,Manyata Tech Park
+500-D,Nagawara,15,Tuesday,0,60,28,46.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Friday,0,55,3,5.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,18,Wednesday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,55,7,12.7,Low,Manyata Tech Park
+290-E,Manyata Tech Park,18,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Nagawara,12,Friday,0,55,7,12.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Wednesday,0,60,26,43.3,Medium,Manyata Tech Park
+290-B,Thanisandra,10,Thursday,0,55,26,47.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,10,Saturday,1,55,22,40.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Friday,0,55,41,74.5,High,Manyata Tech Park
+290-B,Nagawara,7,Wednesday,0,50,25,50.0,Medium,Manyata Tech Park
+290-B,Nagawara,10,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,17,Tuesday,0,50,33,66.0,Medium,Manyata Tech Park
+290-E,Jakkur,5,Tuesday,0,55,11,20.0,Low,Manyata Tech Park
+290-E,Jakkur,19,Thursday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Veerannapalya,11,Tuesday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Thursday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Hebbal,7,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,13,Monday,0,50,27,54.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,6,Tuesday,0,55,34,61.8,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,8,Sunday,1,55,45,81.8,High,Manyata Tech Park
+290-E,Jakkur,11,Tuesday,0,60,17,28.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,9,Saturday,1,55,46,83.6,High,Manyata Tech Park
+290-B,Manyata Tech Park,14,Wednesday,0,60,16,26.7,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,15,Sunday,1,60,2,3.3,Low,Manyata Tech Park
+500-D,Nagawara,7,Monday,0,55,35,63.6,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,13,Thursday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,22,Friday,0,55,11,20.0,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Thursday,0,60,57,95.0,High,Manyata Tech Park
+500-D,Nagawara,6,Monday,0,50,36,72.0,High,Manyata Tech Park
+500-D,Nagawara,10,Friday,0,60,37,61.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Tuesday,0,60,40,66.7,Medium,Manyata Tech Park
+500-D,Hebbal,16,Saturday,1,55,25,45.5,Medium,Manyata Tech Park
+500-D,Nagawara,13,Thursday,0,55,26,47.3,Medium,Manyata Tech Park
+290-E,Thanisandra,14,Tuesday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Jakkur,18,Saturday,1,50,20,40.0,Medium,Manyata Tech Park
+290-E,Yelahanka,22,Wednesday,0,60,14,23.3,Low,Manyata Tech Park
+290-E,Jakkur,14,Monday,0,50,13,26.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Friday,0,55,34,61.8,Medium,Manyata Tech Park
+290-E,Jakkur,18,Wednesday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,Thanisandra,12,Thursday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Manyata Tech Park,21,Sunday,1,55,2,3.6,Low,Manyata Tech Park
+290-B,Thanisandra,5,Saturday,1,55,8,14.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,18,Thursday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,17,Wednesday,0,50,39,78.0,High,Manyata Tech Park
+290-E,Yelahanka,21,Friday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Manyata Tech Park,16,Friday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,19,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Yelahanka,18,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,21,Friday,0,55,25,45.5,Medium,Manyata Tech Park
+290-B,Thanisandra,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,16,Wednesday,0,50,20,40.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,16,Friday,0,55,35,63.6,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Wednesday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Jakkur,21,Thursday,0,55,21,38.2,Medium,Manyata Tech Park
+290-E,Thanisandra,7,Tuesday,0,60,27,45.0,Medium,Manyata Tech Park
+290-E,Thanisandra,6,Saturday,1,55,0,0.0,Low,Manyata Tech Park
+500-D,Veerannapalya,12,Saturday,1,60,18,30.0,Low,Manyata Tech Park
+500-D,Nagawara,14,Tuesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Nagawara,21,Tuesday,0,60,16,26.7,Low,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Thanisandra,11,Wednesday,0,55,26,47.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Wednesday,0,50,23,46.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Hebbal,22,Thursday,0,50,19,38.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Saturday,1,60,14,23.3,Low,Manyata Tech Park
+290-E,Jakkur,6,Tuesday,0,50,17,34.0,Low,Manyata Tech Park
+290-E,Yelahanka,8,Friday,0,55,54,98.2,High,Manyata Tech Park
+290-B,Thanisandra,17,Saturday,1,55,25,45.5,Medium,Manyata Tech Park
+290-B,Thanisandra,21,Tuesday,0,55,10,18.2,Low,Manyata Tech Park
+290-B,Manyata Tech Park,19,Tuesday,0,60,43,71.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,7,Thursday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Nagawara,17,Monday,0,50,49,98.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,6,Thursday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,17,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Nagawara,6,Saturday,1,50,13,26.0,Low,Manyata Tech Park
+500-D,Hebbal,13,Monday,0,60,26,43.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,22,Wednesday,0,55,15,27.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,18,Sunday,1,60,31,51.7,Medium,Manyata Tech Park
+500-D,Hebbal,18,Saturday,1,55,35,63.6,Medium,Manyata Tech Park
+500-D,Hebbal,16,Sunday,1,60,25,41.7,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,19,Monday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,8,Tuesday,0,55,53,96.4,High,Manyata Tech Park
+290-B,Nagawara,5,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Manyata Tech Park,22,Sunday,1,50,21,42.0,Medium,Manyata Tech Park
+290-E,Jakkur,13,Thursday,0,50,13,26.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,6,Friday,0,50,25,50.0,Medium,Manyata Tech Park
+500-D,Hebbal,10,Saturday,1,50,23,46.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,11,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,10,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,19,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Wednesday,0,50,24,48.0,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Monday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,17,Thursday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Nagawara,12,Thursday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Thanisandra,18,Thursday,0,50,46,92.0,High,Manyata Tech Park
+290-E,Yelahanka,7,Sunday,1,60,5,8.3,Low,Manyata Tech Park
+290-B,Thanisandra,7,Saturday,1,55,31,56.4,Medium,Manyata Tech Park
+290-E,Thanisandra,22,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,5,Friday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Thanisandra,19,Wednesday,0,60,47,78.3,High,Manyata Tech Park
+290-E,Jakkur,16,Monday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Nagawara,12,Sunday,1,50,10,20.0,Low,Manyata Tech Park
+290-E,Thanisandra,22,Friday,0,60,7,11.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,6,Saturday,1,55,26,47.3,Medium,Manyata Tech Park
+290-E,Thanisandra,18,Thursday,0,50,36,72.0,High,Manyata Tech Park
+500-D,Veerannapalya,16,Monday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Yelahanka,5,Friday,0,55,0,0.0,Low,Manyata Tech Park
+290-E,Yelahanka,15,Saturday,1,60,30,50.0,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Thursday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Nagawara,18,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Friday,0,60,3,5.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,16,Tuesday,0,55,31,56.4,Medium,Manyata Tech Park
+290-E,Jakkur,15,Monday,0,50,37,74.0,High,Manyata Tech Park
+290-B,Thanisandra,22,Tuesday,0,60,19,31.7,Low,Manyata Tech Park
+500-D,Nagawara,5,Saturday,1,50,19,38.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,15,Monday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,21,Wednesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,13,Saturday,1,50,20,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,22,Saturday,1,55,10,18.2,Low,Manyata Tech Park
+290-E,Yelahanka,17,Monday,0,55,42,76.4,High,Manyata Tech Park
+290-B,Manyata Tech Park,17,Monday,0,60,52,86.7,High,Manyata Tech Park
+290-B,Nagawara,12,Wednesday,0,60,25,41.7,Medium,Manyata Tech Park
+290-B,Thanisandra,14,Friday,0,60,12,20.0,Low,Manyata Tech Park
+500-D,Nagawara,19,Sunday,1,55,24,43.6,Medium,Manyata Tech Park
+290-E,Jakkur,5,Sunday,1,55,10,18.2,Low,Manyata Tech Park
+500-D,Manyata Tech Park,19,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,22,Sunday,1,50,14,28.0,Low,Manyata Tech Park
+290-E,Thanisandra,20,Monday,0,55,29,52.7,Medium,Manyata Tech Park
+290-B,Thanisandra,18,Friday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,13,Monday,0,60,18,30.0,Low,Manyata Tech Park
+290-E,Thanisandra,7,Sunday,1,55,32,58.2,Medium,Manyata Tech Park
+500-D,Nagawara,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,17,Wednesday,0,55,42,76.4,High,Manyata Tech Park
+500-D,Manyata Tech Park,22,Monday,0,55,18,32.7,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,10,Thursday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,5,Tuesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Hebbal,9,Friday,0,60,60,100.0,High,Manyata Tech Park
+290-E,Thanisandra,5,Wednesday,0,50,10,20.0,Low,Manyata Tech Park
+500-D,Hebbal,12,Thursday,0,60,33,55.0,Medium,Manyata Tech Park
+500-D,Nagawara,10,Saturday,1,60,29,48.3,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,11,Monday,0,60,10,16.7,Low,Manyata Tech Park
+290-E,Manyata Tech Park,19,Wednesday,0,60,30,50.0,Medium,Manyata Tech Park
+500-D,Nagawara,18,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Thanisandra,14,Thursday,0,60,30,50.0,Medium,Manyata Tech Park
+290-E,Thanisandra,5,Tuesday,0,60,21,35.0,Low,Manyata Tech Park
+290-B,Nagawara,5,Sunday,1,55,4,7.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,15,Thursday,0,50,15,30.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,19,Monday,0,55,44,80.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,11,Monday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Hebbal,6,Saturday,1,60,20,33.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Tuesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Friday,0,55,46,83.6,High,Manyata Tech Park
+500-D,Manyata Tech Park,11,Wednesday,0,60,21,35.0,Low,Manyata Tech Park
+500-D,Hebbal,12,Wednesday,0,50,26,52.0,Medium,Manyata Tech Park
+500-D,Nagawara,12,Wednesday,0,60,22,36.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Thursday,0,50,27,54.0,Medium,Manyata Tech Park
+500-D,Nagawara,11,Thursday,0,60,16,26.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,8,Tuesday,0,55,54,98.2,High,Manyata Tech Park
+500-D,Veerannapalya,11,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Monday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Thanisandra,13,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Hebbal,19,Sunday,1,55,43,78.2,High,Manyata Tech Park
+290-E,Thanisandra,11,Friday,0,50,11,22.0,Low,Manyata Tech Park
+500-D,Nagawara,12,Thursday,0,50,10,20.0,Low,Manyata Tech Park
+500-D,Hebbal,8,Saturday,1,55,49,89.1,High,Manyata Tech Park
+290-E,Jakkur,10,Friday,0,55,30,54.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,22,Monday,0,55,7,12.7,Low,Manyata Tech Park
+290-E,Thanisandra,20,Sunday,1,55,10,18.2,Low,Manyata Tech Park
+290-B,Thanisandra,7,Wednesday,0,55,41,74.5,High,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Friday,0,60,16,26.7,Low,Manyata Tech Park
+290-B,Nagawara,10,Monday,0,60,17,28.3,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Wednesday,0,55,46,83.6,High,Manyata Tech Park
+500-D,Nagawara,5,Friday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Yelahanka,10,Friday,0,50,35,70.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,15,Tuesday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,22,Wednesday,0,60,8,13.3,Low,Manyata Tech Park
+290-E,Yelahanka,8,Wednesday,0,50,47,94.0,High,Manyata Tech Park
+290-E,Jakkur,15,Tuesday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Sunday,1,60,21,35.0,Low,Manyata Tech Park
+290-E,Jakkur,19,Tuesday,0,55,45,81.8,High,Manyata Tech Park
+500-D,Manyata Tech Park,6,Monday,0,50,16,32.0,Low,Manyata Tech Park
+290-E,Thanisandra,19,Wednesday,0,50,36,72.0,High,Manyata Tech Park
+500-D,Nagawara,7,Friday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Veerannapalya,8,Tuesday,0,60,52,86.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,8,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,18,Monday,0,60,59,98.3,High,Manyata Tech Park
+500-D,Nagawara,15,Saturday,1,55,26,47.3,Medium,Manyata Tech Park
+500-D,Nagawara,5,Thursday,0,50,23,46.0,Medium,Manyata Tech Park
+290-E,Jakkur,10,Monday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Hebbal,16,Saturday,1,50,34,68.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Jakkur,18,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Thanisandra,12,Thursday,0,50,12,24.0,Low,Manyata Tech Park
+290-E,Yelahanka,6,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Saturday,1,55,29,52.7,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,19,Saturday,1,55,27,49.1,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,14,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-E,Yelahanka,22,Saturday,1,60,11,18.3,Low,Manyata Tech Park
+500-D,Hebbal,19,Saturday,1,60,18,30.0,Low,Manyata Tech Park
+500-D,Hebbal,6,Saturday,1,60,17,28.3,Low,Manyata Tech Park
+290-B,Nagawara,21,Tuesday,0,55,16,29.1,Low,Manyata Tech Park
+290-B,Thanisandra,22,Thursday,0,60,13,21.7,Low,Manyata Tech Park
+290-B,Thanisandra,12,Thursday,0,60,29,48.3,Medium,Manyata Tech Park
+500-D,Nagawara,10,Wednesday,0,60,48,80.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,19,Sunday,1,55,36,65.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,6,Wednesday,0,50,30,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,13,Friday,0,60,22,36.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Saturday,1,50,30,60.0,Medium,Manyata Tech Park
+290-E,Jakkur,17,Sunday,1,50,19,38.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,8,Saturday,1,50,38,76.0,High,Manyata Tech Park
+290-B,Nagawara,18,Tuesday,0,60,56,93.3,High,Manyata Tech Park
+290-B,Nagawara,22,Friday,0,50,14,28.0,Low,Manyata Tech Park
+500-D,Hebbal,20,Wednesday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Veerannapalya,12,Wednesday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Hebbal,6,Tuesday,0,60,25,41.7,Medium,Manyata Tech Park
+500-D,Nagawara,22,Friday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Nagawara,15,Saturday,1,55,7,12.7,Low,Manyata Tech Park
+500-D,Veerannapalya,22,Monday,0,55,2,3.6,Low,Manyata Tech Park
+290-E,Thanisandra,10,Tuesday,0,60,24,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,13,Thursday,0,60,7,11.7,Low,Manyata Tech Park
+290-E,Yelahanka,20,Friday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Thursday,0,60,11,18.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,22,Wednesday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Monday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Nagawara,10,Monday,0,50,30,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,18,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,9,Friday,0,60,44,73.3,High,Manyata Tech Park
+290-E,Jakkur,14,Friday,0,50,32,64.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,13,Saturday,1,55,6,10.9,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Saturday,1,60,36,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,14,Tuesday,0,55,6,10.9,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Tuesday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,22,Saturday,1,50,7,14.0,Low,Manyata Tech Park
+290-E,Yelahanka,10,Sunday,1,50,20,40.0,Medium,Manyata Tech Park
+500-D,Nagawara,16,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,12,Saturday,1,50,13,26.0,Low,Manyata Tech Park
+290-E,Thanisandra,7,Saturday,1,50,20,40.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,20,Thursday,0,60,26,43.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,12,Friday,0,50,35,70.0,Medium,Manyata Tech Park
+500-D,Hebbal,15,Wednesday,0,60,26,43.3,Medium,Manyata Tech Park
+290-B,Nagawara,21,Thursday,0,55,15,27.3,Low,Manyata Tech Park
+500-D,Nagawara,12,Monday,0,50,16,32.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,20,Thursday,0,60,31,51.7,Medium,Manyata Tech Park
+290-E,Jakkur,17,Monday,0,50,34,68.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,18,Saturday,1,55,35,63.6,Medium,Manyata Tech Park
+290-B,Thanisandra,11,Sunday,1,55,26,47.3,Medium,Manyata Tech Park
+290-E,Jakkur,15,Monday,0,50,9,18.0,Low,Manyata Tech Park
+290-E,Jakkur,7,Tuesday,0,50,19,38.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Tuesday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Veerannapalya,11,Monday,0,55,3,5.5,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Wednesday,0,55,4,7.3,Low,Manyata Tech Park
+290-E,Thanisandra,6,Sunday,1,60,22,36.7,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,11,Monday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Jakkur,16,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-E,Yelahanka,15,Wednesday,0,60,30,50.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,15,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,22,Friday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Thanisandra,22,Saturday,1,50,19,38.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,18,Tuesday,0,50,46,92.0,High,Manyata Tech Park
+290-E,Yelahanka,10,Tuesday,0,50,19,38.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,17,Tuesday,0,60,51,85.0,High,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,55,25,45.5,Medium,Manyata Tech Park
+290-E,Jakkur,19,Tuesday,0,50,36,72.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,20,Thursday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Nagawara,11,Thursday,0,60,26,43.3,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,19,Friday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,7,Tuesday,0,60,40,66.7,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,20,Sunday,1,55,16,29.1,Low,Manyata Tech Park
+500-D,Veerannapalya,19,Monday,0,60,44,73.3,High,Manyata Tech Park
+290-E,Yelahanka,8,Thursday,0,55,43,78.2,High,Manyata Tech Park
+290-B,Manyata Tech Park,13,Tuesday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Monday,0,50,39,78.0,High,Manyata Tech Park
+500-D,Veerannapalya,7,Friday,0,50,34,68.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Wednesday,0,55,44,80.0,High,Manyata Tech Park
+290-E,Jakkur,13,Friday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,14,Wednesday,0,60,20,33.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,20,Thursday,0,60,26,43.3,Medium,Manyata Tech Park
+500-D,Hebbal,13,Saturday,1,55,16,29.1,Low,Manyata Tech Park
+500-D,Veerannapalya,22,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Yelahanka,15,Monday,0,50,27,54.0,Medium,Manyata Tech Park
+290-E,Yelahanka,14,Monday,0,55,8,14.5,Low,Manyata Tech Park
+290-B,Nagawara,19,Monday,0,55,45,81.8,High,Manyata Tech Park
+500-D,Nagawara,6,Thursday,0,50,13,26.0,Low,Manyata Tech Park
+500-D,Nagawara,13,Thursday,0,60,29,48.3,Medium,Manyata Tech Park
+500-D,Hebbal,7,Monday,0,60,43,71.7,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Saturday,1,50,26,52.0,Medium,Manyata Tech Park
+500-D,Hebbal,15,Friday,0,60,23,38.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,15,Monday,0,50,20,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,11,Wednesday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Nagawara,19,Monday,0,50,47,94.0,High,Manyata Tech Park
+290-E,Yelahanka,10,Sunday,1,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,6,Saturday,1,50,0,0.0,Low,Manyata Tech Park
+500-D,Hebbal,12,Sunday,1,55,16,29.1,Low,Manyata Tech Park
+290-E,Thanisandra,11,Friday,0,60,24,40.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,12,Monday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Veerannapalya,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,15,Monday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,17,Monday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,14,Tuesday,0,60,25,41.7,Medium,Manyata Tech Park
+290-E,Thanisandra,19,Wednesday,0,50,41,82.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,8,Monday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,11,Thursday,0,60,26,43.3,Medium,Manyata Tech Park
+290-B,Nagawara,21,Wednesday,0,60,11,18.3,Low,Manyata Tech Park
+500-D,Hebbal,16,Saturday,1,55,32,58.2,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,20,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Yelahanka,5,Sunday,1,55,10,18.2,Low,Manyata Tech Park
+500-D,Nagawara,17,Monday,0,50,48,96.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Thursday,0,50,21,42.0,Medium,Manyata Tech Park
+500-D,Hebbal,5,Friday,0,55,25,45.5,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,6,Thursday,0,55,7,12.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,21,Saturday,1,60,15,25.0,Low,Manyata Tech Park
+500-D,Nagawara,21,Friday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Sunday,1,55,3,5.5,Low,Manyata Tech Park
+290-E,Thanisandra,7,Wednesday,0,50,32,64.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,16,Monday,0,55,35,63.6,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,9,Friday,0,60,37,61.7,Medium,Manyata Tech Park
+500-D,Hebbal,18,Wednesday,0,60,48,80.0,High,Manyata Tech Park
+500-D,Nagawara,6,Monday,0,60,24,40.0,Medium,Manyata Tech Park
+290-B,Nagawara,5,Friday,0,55,12,21.8,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,8,Monday,0,55,49,89.1,High,Manyata Tech Park
+500-D,Nagawara,6,Saturday,1,55,8,14.5,Low,Manyata Tech Park
+290-E,Jakkur,8,Saturday,1,60,41,68.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,11,Wednesday,0,60,23,38.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Wednesday,0,55,30,54.5,Medium,Manyata Tech Park
+290-E,Jakkur,16,Thursday,0,50,20,40.0,Medium,Manyata Tech Park
+290-B,Thanisandra,19,Saturday,1,50,35,70.0,Medium,Manyata Tech Park
+500-D,Hebbal,20,Sunday,1,60,16,26.7,Low,Manyata Tech Park
+290-E,Yelahanka,13,Sunday,1,55,7,12.7,Low,Manyata Tech Park
+500-D,Nagawara,20,Thursday,0,60,24,40.0,Medium,Manyata Tech Park
+290-E,Yelahanka,7,Friday,0,55,27,49.1,Medium,Manyata Tech Park
+290-B,Nagawara,12,Friday,0,55,14,25.5,Low,Manyata Tech Park
+290-B,Nagawara,15,Thursday,0,55,9,16.4,Low,Manyata Tech Park
+290-E,Yelahanka,18,Thursday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,5,Saturday,1,50,23,46.0,Medium,Manyata Tech Park
+290-E,Thanisandra,12,Wednesday,0,55,7,12.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,8,Thursday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,11,Monday,0,60,20,33.3,Low,Manyata Tech Park
+290-B,Thanisandra,5,Monday,0,55,3,5.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Wednesday,0,50,17,34.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,17,Saturday,1,50,25,50.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,10,Monday,0,55,6,10.9,Low,Manyata Tech Park
+290-B,Thanisandra,8,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,12,Wednesday,0,55,17,30.9,Low,Manyata Tech Park
+290-B,Thanisandra,22,Thursday,0,55,11,20.0,Low,Manyata Tech Park
+500-D,Nagawara,17,Saturday,1,60,38,63.3,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Tuesday,0,60,58,96.7,High,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Tuesday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,14,Thursday,0,55,1,1.8,Low,Manyata Tech Park
+290-E,Jakkur,22,Tuesday,0,55,6,10.9,Low,Manyata Tech Park
+290-B,Manyata Tech Park,9,Monday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Jakkur,13,Friday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Veerannapalya,11,Friday,0,50,11,22.0,Low,Manyata Tech Park
+290-E,Thanisandra,19,Friday,0,60,49,81.7,High,Manyata Tech Park
+500-D,Nagawara,6,Thursday,0,55,25,45.5,Medium,Manyata Tech Park
+290-E,Yelahanka,17,Tuesday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Nagawara,14,Wednesday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Veerannapalya,9,Sunday,1,55,27,49.1,Medium,Manyata Tech Park
+290-E,Jakkur,14,Wednesday,0,55,13,23.6,Low,Manyata Tech Park
+290-E,Thanisandra,18,Saturday,1,55,36,65.5,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,12,Saturday,1,55,14,25.5,Low,Manyata Tech Park
+500-D,Hebbal,22,Monday,0,50,13,26.0,Low,Manyata Tech Park
+500-D,Nagawara,17,Friday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,17,Tuesday,0,50,44,88.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,22,Tuesday,0,50,19,38.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,20,Monday,0,55,37,67.3,Medium,Manyata Tech Park
+290-E,Thanisandra,18,Thursday,0,50,39,78.0,High,Manyata Tech Park
+290-E,Yelahanka,13,Wednesday,0,50,10,20.0,Low,Manyata Tech Park
+500-D,Hebbal,14,Thursday,0,55,26,47.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,21,Thursday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Nagawara,6,Monday,0,55,25,45.5,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,14,Saturday,1,55,0,0.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,12,Sunday,1,55,16,29.1,Low,Manyata Tech Park
+500-D,Veerannapalya,19,Thursday,0,60,42,70.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,18,Tuesday,0,55,51,92.7,High,Manyata Tech Park
+290-B,Nagawara,7,Tuesday,0,60,37,61.7,Medium,Manyata Tech Park
+290-B,Nagawara,11,Friday,0,50,3,6.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,17,Thursday,0,55,48,87.3,High,Manyata Tech Park
+500-D,Nagawara,19,Wednesday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Yelahanka,18,Thursday,0,55,42,76.4,High,Manyata Tech Park
+500-D,Nagawara,9,Thursday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,19,Sunday,1,50,32,64.0,Medium,Manyata Tech Park
+290-B,Thanisandra,19,Monday,0,60,37,61.7,Medium,Manyata Tech Park
+290-E,Jakkur,7,Wednesday,0,55,42,76.4,High,Manyata Tech Park
+290-E,Yelahanka,20,Tuesday,0,55,12,21.8,Low,Manyata Tech Park
+290-B,Thanisandra,17,Friday,0,55,48,87.3,High,Manyata Tech Park
+500-D,Nagawara,21,Tuesday,0,55,8,14.5,Low,Manyata Tech Park
+500-D,Veerannapalya,10,Friday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Yelahanka,22,Saturday,1,50,2,4.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,13,Thursday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Nagawara,22,Tuesday,0,55,5,9.1,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,14,Thursday,0,55,0,0.0,Low,Manyata Tech Park
+500-D,Nagawara,14,Sunday,1,55,15,27.3,Low,Manyata Tech Park
+500-D,Hebbal,22,Thursday,0,60,6,10.0,Low,Manyata Tech Park
+290-B,Nagawara,7,Saturday,1,55,26,47.3,Medium,Manyata Tech Park
+500-D,Nagawara,5,Sunday,1,50,16,32.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Monday,0,55,6,10.9,Low,Manyata Tech Park
+290-B,Nagawara,16,Tuesday,0,55,37,67.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,13,Wednesday,0,50,11,22.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,11,Saturday,1,50,12,24.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,10,Sunday,1,55,22,40.0,Medium,Manyata Tech Park
+290-E,Jakkur,7,Monday,0,50,22,44.0,Medium,Manyata Tech Park
+290-E,Yelahanka,19,Friday,0,60,26,43.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,5,Sunday,1,55,14,25.5,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Thursday,0,60,12,20.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Monday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Manyata Tech Park,21,Saturday,1,50,20,40.0,Medium,Manyata Tech Park
+500-D,Nagawara,12,Monday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Hebbal,7,Tuesday,0,50,33,66.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,16,Wednesday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,7,Saturday,1,55,34,61.8,Medium,Manyata Tech Park
+500-D,Hebbal,10,Wednesday,0,60,45,75.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Tuesday,0,60,32,53.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,9,Thursday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,9,Wednesday,0,60,54,90.0,High,Manyata Tech Park
+500-D,Nagawara,14,Saturday,1,50,4,8.0,Low,Manyata Tech Park
+290-E,Thanisandra,21,Saturday,1,50,19,38.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,20,Saturday,1,55,21,38.2,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Tuesday,0,50,50,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Wednesday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,14,Wednesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-B,Thanisandra,8,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Thanisandra,9,Saturday,1,60,19,31.7,Low,Manyata Tech Park
+500-D,Nagawara,22,Thursday,0,55,26,47.3,Medium,Manyata Tech Park
+290-E,Yelahanka,19,Friday,0,50,27,54.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,20,Saturday,1,55,14,25.5,Low,Manyata Tech Park
+290-E,Manyata Tech Park,15,Wednesday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Nagawara,5,Sunday,1,50,11,22.0,Low,Manyata Tech Park
+500-D,Veerannapalya,17,Sunday,1,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,20,Monday,0,50,22,44.0,Medium,Manyata Tech Park
+290-E,Thanisandra,11,Tuesday,0,60,19,31.7,Low,Manyata Tech Park
+290-E,Manyata Tech Park,21,Wednesday,0,55,4,7.3,Low,Manyata Tech Park
+500-D,Hebbal,22,Saturday,1,60,10,16.7,Low,Manyata Tech Park
+290-E,Yelahanka,15,Wednesday,0,55,9,16.4,Low,Manyata Tech Park
+290-B,Nagawara,19,Friday,0,50,29,58.0,Medium,Manyata Tech Park
+290-E,Jakkur,16,Friday,0,60,27,45.0,Medium,Manyata Tech Park
+290-E,Thanisandra,9,Sunday,1,55,33,60.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,8,Monday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,9,Friday,0,50,45,90.0,High,Manyata Tech Park
+290-E,Yelahanka,5,Sunday,1,55,17,30.9,Low,Manyata Tech Park
+290-E,Thanisandra,22,Wednesday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Hebbal,20,Thursday,0,55,49,89.1,High,Manyata Tech Park
+290-B,Thanisandra,21,Saturday,1,50,7,14.0,Low,Manyata Tech Park
+500-D,Veerannapalya,6,Saturday,1,55,7,12.7,Low,Manyata Tech Park
+290-E,Thanisandra,5,Thursday,0,50,33,66.0,Medium,Manyata Tech Park
+290-B,Nagawara,9,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,7,Tuesday,0,50,41,82.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,5,Friday,0,55,16,29.1,Low,Manyata Tech Park
+290-E,Yelahanka,8,Wednesday,0,60,44,73.3,High,Manyata Tech Park
+500-D,Hebbal,6,Wednesday,0,60,20,33.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,20,Thursday,0,60,31,51.7,Medium,Manyata Tech Park
+500-D,Nagawara,6,Sunday,1,50,11,22.0,Low,Manyata Tech Park
+290-E,Yelahanka,13,Tuesday,0,60,27,45.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,17,Saturday,1,60,37,61.7,Medium,Manyata Tech Park
+290-E,Thanisandra,19,Wednesday,0,55,25,45.5,Medium,Manyata Tech Park
+290-E,Thanisandra,20,Friday,0,55,16,29.1,Low,Manyata Tech Park
+290-E,Manyata Tech Park,6,Friday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Jakkur,7,Saturday,1,55,25,45.5,Medium,Manyata Tech Park
+500-D,Nagawara,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,10,Tuesday,0,55,39,70.9,High,Manyata Tech Park
+290-B,Thanisandra,6,Saturday,1,60,19,31.7,Low,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,55,30,54.5,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,11,Saturday,1,50,17,34.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Tuesday,0,60,31,51.7,Medium,Manyata Tech Park
+290-E,Yelahanka,7,Tuesday,0,55,38,69.1,Medium,Manyata Tech Park
+290-E,Yelahanka,9,Wednesday,0,55,34,61.8,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,21,Tuesday,0,50,8,16.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,6,Thursday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Hebbal,7,Monday,0,60,39,65.0,Medium,Manyata Tech Park
+500-D,Nagawara,17,Tuesday,0,55,46,83.6,High,Manyata Tech Park
+290-E,Manyata Tech Park,5,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,20,Saturday,1,50,5,10.0,Low,Manyata Tech Park
+290-E,Thanisandra,6,Friday,0,50,8,16.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,5,Wednesday,0,55,5,9.1,Low,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,55,11,20.0,Low,Manyata Tech Park
+500-D,Nagawara,21,Wednesday,0,55,15,27.3,Low,Manyata Tech Park
+500-D,Hebbal,22,Tuesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,Thanisandra,16,Monday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Nagawara,11,Thursday,0,60,23,38.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,8,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,16,Wednesday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Veerannapalya,9,Sunday,1,55,37,67.3,Medium,Manyata Tech Park
+500-D,Hebbal,10,Wednesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Yelahanka,8,Thursday,0,55,44,80.0,High,Manyata Tech Park
+500-D,Hebbal,19,Friday,0,55,47,85.5,High,Manyata Tech Park
+500-D,Hebbal,6,Friday,0,50,33,66.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,12,Wednesday,0,60,20,33.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,15,Sunday,1,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,5,Wednesday,0,50,12,24.0,Low,Manyata Tech Park
+290-B,Thanisandra,10,Friday,0,60,34,56.7,Medium,Manyata Tech Park
+290-B,Thanisandra,17,Thursday,0,50,45,90.0,High,Manyata Tech Park
+500-D,Hebbal,6,Wednesday,0,50,30,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,21,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,14,Tuesday,0,50,23,46.0,Medium,Manyata Tech Park
+500-D,Hebbal,22,Friday,0,60,19,31.7,Low,Manyata Tech Park
+290-E,Yelahanka,17,Friday,0,60,37,61.7,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Wednesday,0,60,28,46.7,Medium,Manyata Tech Park
+500-D,Hebbal,7,Wednesday,0,55,53,96.4,High,Manyata Tech Park
+500-D,Veerannapalya,13,Sunday,1,50,2,4.0,Low,Manyata Tech Park
+500-D,Nagawara,9,Saturday,1,60,26,43.3,Medium,Manyata Tech Park
+500-D,Hebbal,22,Wednesday,0,60,12,20.0,Low,Manyata Tech Park
+290-B,Nagawara,14,Tuesday,0,55,31,56.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,13,Wednesday,0,55,24,43.6,Medium,Manyata Tech Park
+500-D,Nagawara,6,Wednesday,0,55,3,5.5,Low,Manyata Tech Park
+290-B,Manyata Tech Park,14,Thursday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Yelahanka,7,Saturday,1,60,30,50.0,Medium,Manyata Tech Park
+500-D,Hebbal,16,Monday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Yelahanka,10,Sunday,1,55,12,21.8,Low,Manyata Tech Park
+500-D,Nagawara,19,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,12,Sunday,1,50,16,32.0,Low,Manyata Tech Park
+500-D,Veerannapalya,12,Tuesday,0,55,5,9.1,Low,Manyata Tech Park
+290-E,Manyata Tech Park,9,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,21,Saturday,1,60,5,8.3,Low,Manyata Tech Park
+500-D,Nagawara,13,Monday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,16,Thursday,0,55,43,78.2,High,Manyata Tech Park
+290-B,RK Hegde Nagar,6,Monday,0,50,2,4.0,Low,Manyata Tech Park
+290-E,Thanisandra,12,Monday,0,50,17,34.0,Low,Manyata Tech Park
+500-D,Nagawara,13,Thursday,0,50,18,36.0,Medium,Manyata Tech Park
+290-B,Nagawara,15,Tuesday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Veerannapalya,15,Friday,0,60,23,38.3,Medium,Manyata Tech Park
+290-E,Jakkur,7,Monday,0,55,39,70.9,High,Manyata Tech Park
+290-E,Thanisandra,14,Saturday,1,55,9,16.4,Low,Manyata Tech Park
+500-D,Hebbal,14,Thursday,0,50,27,54.0,Medium,Manyata Tech Park
+500-D,Hebbal,8,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Yelahanka,11,Sunday,1,60,2,3.3,Low,Manyata Tech Park
+500-D,Nagawara,12,Monday,0,60,25,41.7,Medium,Manyata Tech Park
+290-B,Thanisandra,15,Monday,0,60,15,25.0,Low,Manyata Tech Park
+500-D,Veerannapalya,16,Thursday,0,55,38,69.1,Medium,Manyata Tech Park
+290-B,Nagawara,21,Friday,0,60,17,28.3,Low,Manyata Tech Park
+290-E,Yelahanka,16,Monday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Yelahanka,12,Friday,0,60,15,25.0,Low,Manyata Tech Park
+500-D,Veerannapalya,14,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,19,Thursday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,6,Wednesday,0,50,20,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,6,Friday,0,50,24,48.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Monday,0,60,21,35.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,5,Wednesday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Nagawara,15,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,20,Tuesday,0,60,40,66.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Tuesday,0,50,11,22.0,Low,Manyata Tech Park
+290-E,Yelahanka,16,Friday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Nagawara,17,Sunday,1,55,41,74.5,High,Manyata Tech Park
+500-D,Hebbal,20,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Jakkur,8,Friday,0,60,55,91.7,High,Manyata Tech Park
+290-E,Jakkur,5,Thursday,0,55,12,21.8,Low,Manyata Tech Park
+290-B,Manyata Tech Park,17,Thursday,0,55,41,74.5,High,Manyata Tech Park
+290-B,Manyata Tech Park,10,Tuesday,0,55,44,80.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,11,Tuesday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Nagawara,22,Thursday,0,50,37,74.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Monday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Nagawara,22,Saturday,1,50,0,0.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,16,Saturday,1,55,2,3.6,Low,Manyata Tech Park
+290-E,Jakkur,17,Tuesday,0,55,39,70.9,High,Manyata Tech Park
+290-E,Yelahanka,5,Sunday,1,55,1,1.8,Low,Manyata Tech Park
+500-D,Hebbal,17,Friday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Monday,0,55,36,65.5,Medium,Manyata Tech Park
+500-D,Nagawara,19,Saturday,1,60,21,35.0,Low,Manyata Tech Park
+290-B,Thanisandra,13,Saturday,1,60,7,11.7,Low,Manyata Tech Park
+500-D,Hebbal,15,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Nagawara,22,Friday,0,50,9,18.0,Low,Manyata Tech Park
+290-B,Nagawara,5,Saturday,1,55,1,1.8,Low,Manyata Tech Park
+290-B,Manyata Tech Park,12,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,22,Monday,0,55,13,23.6,Low,Manyata Tech Park
+290-E,Jakkur,18,Monday,0,55,45,81.8,High,Manyata Tech Park
+500-D,Manyata Tech Park,13,Saturday,1,50,12,24.0,Low,Manyata Tech Park
+290-E,Yelahanka,14,Wednesday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,8,Saturday,1,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,16,Tuesday,0,55,31,56.4,Medium,Manyata Tech Park
+290-E,Yelahanka,20,Saturday,1,55,29,52.7,Medium,Manyata Tech Park
+290-B,Nagawara,9,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Yelahanka,7,Friday,0,60,31,51.7,Medium,Manyata Tech Park
+290-E,Thanisandra,22,Tuesday,0,55,1,1.8,Low,Manyata Tech Park
+290-B,Manyata Tech Park,9,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Jakkur,5,Thursday,0,55,11,20.0,Low,Manyata Tech Park
+290-E,Jakkur,9,Wednesday,0,55,51,92.7,High,Manyata Tech Park
+290-B,Thanisandra,21,Saturday,1,55,0,0.0,Low,Manyata Tech Park
+500-D,Nagawara,10,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,20,Friday,0,50,30,60.0,Medium,Manyata Tech Park
+290-E,Jakkur,20,Wednesday,0,60,26,43.3,Medium,Manyata Tech Park
+500-D,Nagawara,10,Monday,0,50,43,86.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Monday,0,55,30,54.5,Medium,Manyata Tech Park
+290-E,Jakkur,13,Saturday,1,50,6,12.0,Low,Manyata Tech Park
+500-D,Hebbal,9,Friday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Nagawara,14,Friday,0,55,20,36.4,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,9,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Yelahanka,12,Saturday,1,55,4,7.3,Low,Manyata Tech Park
+500-D,Hebbal,16,Monday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,21,Monday,0,60,7,11.7,Low,Manyata Tech Park
+500-D,Hebbal,22,Wednesday,0,50,8,16.0,Low,Manyata Tech Park
+290-E,Jakkur,8,Wednesday,0,60,50,83.3,High,Manyata Tech Park
+500-D,Manyata Tech Park,8,Wednesday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Hebbal,16,Sunday,1,55,37,67.3,Medium,Manyata Tech Park
+290-E,Thanisandra,7,Wednesday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Thursday,0,55,44,80.0,High,Manyata Tech Park
+290-E,Thanisandra,19,Friday,0,55,37,67.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,6,Wednesday,0,50,29,58.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,11,Monday,0,50,31,62.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,21,Thursday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Nagawara,20,Saturday,1,60,17,28.3,Low,Manyata Tech Park
+290-B,Thanisandra,18,Wednesday,0,60,59,98.3,High,Manyata Tech Park
+500-D,Manyata Tech Park,18,Thursday,0,60,58,96.7,High,Manyata Tech Park
+500-D,Hebbal,13,Monday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,14,Thursday,0,60,14,23.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,16,Friday,0,60,24,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,20,Saturday,1,60,30,50.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,6,Thursday,0,50,28,56.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,20,Monday,0,60,31,51.7,Medium,Manyata Tech Park
+290-E,Thanisandra,20,Monday,0,50,23,46.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,7,Friday,0,55,44,80.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,17,Tuesday,0,55,40,72.7,High,Manyata Tech Park
+290-B,Nagawara,22,Tuesday,0,55,0,0.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,17,Monday,0,55,51,92.7,High,Manyata Tech Park
+290-E,Thanisandra,11,Wednesday,0,50,27,54.0,Medium,Manyata Tech Park
+500-D,Nagawara,7,Tuesday,0,60,48,80.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,7,Monday,0,60,38,63.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,16,Saturday,1,60,18,30.0,Low,Manyata Tech Park
+290-E,Jakkur,8,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Yelahanka,17,Friday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,7,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,6,Sunday,1,55,34,61.8,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Monday,0,60,25,41.7,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Monday,0,50,29,58.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,6,Monday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,12,Thursday,0,50,23,46.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,20,Thursday,0,60,37,61.7,Medium,Manyata Tech Park
+290-E,Jakkur,10,Sunday,1,60,13,21.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Saturday,1,50,31,62.0,Medium,Manyata Tech Park
+290-E,Jakkur,19,Friday,0,50,26,52.0,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Wednesday,0,55,33,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,22,Monday,0,55,6,10.9,Low,Manyata Tech Park
+290-E,Yelahanka,16,Friday,0,60,9,15.0,Low,Manyata Tech Park
+290-E,Jakkur,15,Monday,0,50,14,28.0,Low,Manyata Tech Park
+500-D,Hebbal,11,Tuesday,0,50,17,34.0,Low,Manyata Tech Park
+500-D,Hebbal,5,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+290-B,Nagawara,15,Monday,0,55,11,20.0,Low,Manyata Tech Park
+500-D,Veerannapalya,19,Wednesday,0,50,47,94.0,High,Manyata Tech Park
+290-B,Nagawara,10,Friday,0,50,26,52.0,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Thursday,0,55,10,18.2,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Thursday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Thanisandra,19,Sunday,1,55,37,67.3,Medium,Manyata Tech Park
+500-D,Veerannapalya,15,Thursday,0,55,16,29.1,Low,Manyata Tech Park
+290-B,Manyata Tech Park,8,Tuesday,0,60,59,98.3,High,Manyata Tech Park
+290-E,Yelahanka,17,Friday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Nagawara,21,Sunday,1,50,14,28.0,Low,Manyata Tech Park
+500-D,Nagawara,22,Monday,0,60,4,6.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Friday,0,50,28,56.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,9,Monday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Nagawara,14,Saturday,1,55,4,7.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,21,Thursday,0,50,14,28.0,Low,Manyata Tech Park
+500-D,Veerannapalya,19,Saturday,1,60,27,45.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,10,Friday,0,50,32,64.0,Medium,Manyata Tech Park
+290-B,Thanisandra,6,Tuesday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Hebbal,22,Friday,0,60,37,61.7,Medium,Manyata Tech Park
+500-D,Hebbal,21,Monday,0,50,7,14.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,12,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Hebbal,19,Wednesday,0,60,60,100.0,High,Manyata Tech Park
+290-E,Thanisandra,8,Sunday,1,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Monday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Sunday,1,55,2,3.6,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Saturday,1,55,22,40.0,Medium,Manyata Tech Park
+290-B,Thanisandra,16,Thursday,0,55,35,63.6,Medium,Manyata Tech Park
+290-E,Jakkur,15,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+500-D,Veerannapalya,8,Tuesday,0,55,54,98.2,High,Manyata Tech Park
+290-B,Manyata Tech Park,20,Wednesday,0,60,24,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,5,Wednesday,0,55,8,14.5,Low,Manyata Tech Park
+290-E,Thanisandra,9,Friday,0,60,38,63.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,13,Wednesday,0,60,20,33.3,Low,Manyata Tech Park
+500-D,Veerannapalya,18,Thursday,0,60,48,80.0,High,Manyata Tech Park
+500-D,Nagawara,10,Monday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Yelahanka,14,Tuesday,0,60,23,38.3,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Thursday,0,55,15,27.3,Low,Manyata Tech Park
+290-B,Thanisandra,9,Wednesday,0,50,48,96.0,High,Manyata Tech Park
+290-E,Jakkur,21,Monday,0,60,7,11.7,Low,Manyata Tech Park
+500-D,Nagawara,13,Monday,0,55,31,56.4,Medium,Manyata Tech Park
+290-B,Thanisandra,19,Wednesday,0,60,42,70.0,Medium,Manyata Tech Park
+500-D,Hebbal,21,Friday,0,50,12,24.0,Low,Manyata Tech Park
+500-D,Nagawara,20,Tuesday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Hebbal,17,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Thanisandra,13,Friday,0,50,34,68.0,Medium,Manyata Tech Park
+290-E,Jakkur,5,Thursday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,21,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-B,Nagawara,17,Monday,0,55,46,83.6,High,Manyata Tech Park
+290-E,Jakkur,18,Saturday,1,55,33,60.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,22,Wednesday,0,60,6,10.0,Low,Manyata Tech Park
+290-B,Nagawara,12,Sunday,1,50,7,14.0,Low,Manyata Tech Park
+290-B,Thanisandra,22,Wednesday,0,60,14,23.3,Low,Manyata Tech Park
+500-D,Hebbal,12,Friday,0,60,3,5.0,Low,Manyata Tech Park
+290-B,Nagawara,13,Thursday,0,50,10,20.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,15,Tuesday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,16,Tuesday,0,55,4,7.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,15,Wednesday,0,50,18,36.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Sunday,1,60,4,6.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,18,Thursday,0,60,43,71.7,High,Manyata Tech Park
+500-D,Nagawara,10,Friday,0,60,36,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,9,Thursday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Nagawara,15,Thursday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Tuesday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Hebbal,13,Friday,0,55,26,47.3,Medium,Manyata Tech Park
+290-E,Yelahanka,22,Friday,0,55,6,10.9,Low,Manyata Tech Park
+290-E,Jakkur,19,Tuesday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Jakkur,14,Thursday,0,50,3,6.0,Low,Manyata Tech Park
+290-E,Yelahanka,14,Friday,0,50,4,8.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,11,Wednesday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Tuesday,0,55,52,94.5,High,Manyata Tech Park
+500-D,Veerannapalya,6,Sunday,1,50,15,30.0,Low,Manyata Tech Park
+290-E,Thanisandra,17,Monday,0,50,32,64.0,Medium,Manyata Tech Park
+290-E,Yelahanka,18,Monday,0,50,38,76.0,High,Manyata Tech Park
+500-D,Hebbal,21,Wednesday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Veerannapalya,6,Wednesday,0,60,8,13.3,Low,Manyata Tech Park
+290-E,Manyata Tech Park,11,Tuesday,0,55,16,29.1,Low,Manyata Tech Park
+290-E,Jakkur,16,Tuesday,0,50,12,24.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,7,Monday,0,55,43,78.2,High,Manyata Tech Park
+290-B,Thanisandra,13,Thursday,0,55,28,50.9,Medium,Manyata Tech Park
+290-E,Jakkur,18,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,14,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,10,Friday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Nagawara,11,Wednesday,0,50,11,22.0,Low,Manyata Tech Park
+290-E,Yelahanka,22,Tuesday,0,50,9,18.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,21,Monday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Tuesday,0,60,27,45.0,Medium,Manyata Tech Park
+290-E,Yelahanka,13,Wednesday,0,60,16,26.7,Low,Manyata Tech Park
+500-D,Nagawara,12,Friday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Nagawara,21,Thursday,0,50,9,18.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,15,Sunday,1,50,25,50.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Sunday,1,55,13,23.6,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Thursday,0,50,34,68.0,Medium,Manyata Tech Park
+290-E,Thanisandra,14,Tuesday,0,50,11,22.0,Low,Manyata Tech Park
+500-D,Nagawara,20,Saturday,1,55,22,40.0,Medium,Manyata Tech Park
+290-E,Thanisandra,11,Saturday,1,55,14,25.5,Low,Manyata Tech Park
+290-E,Thanisandra,12,Thursday,0,50,18,36.0,Medium,Manyata Tech Park
+290-E,Yelahanka,10,Friday,0,50,19,38.0,Medium,Manyata Tech Park
+290-B,Thanisandra,21,Sunday,1,55,0,0.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,6,Sunday,1,60,9,15.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,5,Friday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Nagawara,6,Thursday,0,50,40,80.0,High,Manyata Tech Park
+500-D,Hebbal,12,Wednesday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Jakkur,22,Monday,0,60,14,23.3,Low,Manyata Tech Park
+290-E,Thanisandra,7,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,16,Saturday,1,50,15,30.0,Low,Manyata Tech Park
+290-B,Thanisandra,14,Monday,0,60,21,35.0,Low,Manyata Tech Park
+290-B,Nagawara,18,Monday,0,60,40,66.7,Medium,Manyata Tech Park
+290-B,Thanisandra,5,Monday,0,55,7,12.7,Low,Manyata Tech Park
+290-B,Nagawara,16,Thursday,0,60,42,70.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,11,Tuesday,0,50,24,48.0,Medium,Manyata Tech Park
+290-E,Yelahanka,9,Tuesday,0,55,45,81.8,High,Manyata Tech Park
+290-B,Thanisandra,18,Thursday,0,55,50,90.9,High,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Wednesday,0,60,23,38.3,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,6,Wednesday,0,50,14,28.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,19,Wednesday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,16,Sunday,1,50,23,46.0,Medium,Manyata Tech Park
+290-B,Nagawara,22,Monday,0,50,11,22.0,Low,Manyata Tech Park
+500-D,Hebbal,18,Thursday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,11,Tuesday,0,50,11,22.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Tuesday,0,50,27,54.0,Medium,Manyata Tech Park
+290-E,Thanisandra,14,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Yelahanka,16,Thursday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Jakkur,5,Tuesday,0,55,8,14.5,Low,Manyata Tech Park
+290-E,Yelahanka,14,Friday,0,50,28,56.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,7,Thursday,0,50,40,80.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Tuesday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,14,Saturday,1,55,0,0.0,Low,Manyata Tech Park
+290-E,Jakkur,11,Thursday,0,55,8,14.5,Low,Manyata Tech Park
+290-E,Yelahanka,21,Sunday,1,55,13,23.6,Low,Manyata Tech Park
+290-E,Thanisandra,13,Monday,0,55,12,21.8,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Nagawara,17,Monday,0,60,51,85.0,High,Manyata Tech Park
+500-D,Nagawara,11,Monday,0,55,29,52.7,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,5,Monday,0,60,9,15.0,Low,Manyata Tech Park
+500-D,Nagawara,5,Monday,0,55,30,54.5,Medium,Manyata Tech Park
+500-D,Nagawara,9,Wednesday,0,55,52,94.5,High,Manyata Tech Park
+290-E,Manyata Tech Park,20,Saturday,1,55,20,36.4,Medium,Manyata Tech Park
+290-E,Jakkur,14,Wednesday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Wednesday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Jakkur,7,Monday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Saturday,1,55,35,63.6,Medium,Manyata Tech Park
+290-E,Yelahanka,10,Monday,0,60,31,51.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Friday,0,55,32,58.2,Medium,Manyata Tech Park
+290-E,Thanisandra,13,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Friday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,17,Thursday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Nagawara,20,Sunday,1,50,17,34.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,18,Tuesday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Jakkur,21,Wednesday,0,55,3,5.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,8,Monday,0,60,60,100.0,High,Manyata Tech Park
+290-E,Yelahanka,18,Monday,0,55,51,92.7,High,Manyata Tech Park
+500-D,Manyata Tech Park,8,Sunday,1,60,31,51.7,Medium,Manyata Tech Park
+500-D,Nagawara,9,Sunday,1,50,31,62.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,14,Wednesday,0,60,10,16.7,Low,Manyata Tech Park
+290-E,Yelahanka,19,Tuesday,0,50,27,54.0,Medium,Manyata Tech Park
+500-D,Nagawara,22,Thursday,0,55,9,16.4,Low,Manyata Tech Park
+290-E,Yelahanka,6,Saturday,1,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,7,Friday,0,55,45,81.8,High,Manyata Tech Park
+290-E,Yelahanka,14,Saturday,1,55,5,9.1,Low,Manyata Tech Park
+500-D,Hebbal,8,Sunday,1,55,44,80.0,High,Manyata Tech Park
+290-E,Yelahanka,11,Monday,0,55,21,38.2,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Friday,0,55,45,81.8,High,Manyata Tech Park
+500-D,Veerannapalya,6,Saturday,1,55,20,36.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,18,Sunday,1,50,33,66.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,13,Saturday,1,55,13,23.6,Low,Manyata Tech Park
+500-D,Hebbal,11,Thursday,0,55,33,60.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,12,Sunday,1,60,15,25.0,Low,Manyata Tech Park
+500-D,Veerannapalya,20,Wednesday,0,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,9,Thursday,0,50,42,84.0,High,Manyata Tech Park
+500-D,Nagawara,19,Friday,0,55,42,76.4,High,Manyata Tech Park
+290-E,Yelahanka,9,Tuesday,0,60,48,80.0,High,Manyata Tech Park
+290-E,Manyata Tech Park,18,Thursday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Hebbal,18,Monday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Tuesday,0,50,29,58.0,Medium,Manyata Tech Park
+500-D,Nagawara,19,Tuesday,0,50,36,72.0,High,Manyata Tech Park
+500-D,Nagawara,11,Thursday,0,50,18,36.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,14,Tuesday,0,60,21,35.0,Low,Manyata Tech Park
+290-B,Nagawara,12,Monday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Hebbal,15,Saturday,1,50,9,18.0,Low,Manyata Tech Park
+290-E,Yelahanka,7,Sunday,1,55,9,16.4,Low,Manyata Tech Park
+500-D,Veerannapalya,15,Thursday,0,60,11,18.3,Low,Manyata Tech Park
+290-B,Thanisandra,20,Thursday,0,60,27,45.0,Medium,Manyata Tech Park
+500-D,Nagawara,11,Tuesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Thanisandra,16,Monday,0,55,31,56.4,Medium,Manyata Tech Park
+290-B,Thanisandra,14,Thursday,0,55,16,29.1,Low,Manyata Tech Park
+290-E,Jakkur,17,Thursday,0,55,38,69.1,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,14,Friday,0,50,9,18.0,Low,Manyata Tech Park
+290-B,Nagawara,10,Wednesday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,5,Thursday,0,50,11,22.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,15,Thursday,0,55,26,47.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,19,Saturday,1,60,41,68.3,Medium,Manyata Tech Park
+290-B,Nagawara,13,Thursday,0,55,31,56.4,Medium,Manyata Tech Park
+290-E,Yelahanka,21,Wednesday,0,60,2,3.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,10,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+500-D,Veerannapalya,14,Friday,0,55,10,18.2,Low,Manyata Tech Park
+290-B,Thanisandra,8,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Nagawara,8,Thursday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,10,Wednesday,0,55,34,61.8,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,22,Wednesday,0,55,16,29.1,Low,Manyata Tech Park
+500-D,Nagawara,9,Saturday,1,55,25,45.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,17,Friday,0,60,44,73.3,High,Manyata Tech Park
+500-D,Hebbal,10,Friday,0,55,31,56.4,Medium,Manyata Tech Park
+500-D,Nagawara,13,Monday,0,55,17,30.9,Low,Manyata Tech Park
+290-B,Thanisandra,21,Monday,0,50,19,38.0,Medium,Manyata Tech Park
+290-E,Jakkur,19,Friday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,17,Thursday,0,60,33,55.0,Medium,Manyata Tech Park
+290-E,Thanisandra,7,Friday,0,60,24,40.0,Medium,Manyata Tech Park
+290-E,Thanisandra,20,Sunday,1,55,15,27.3,Low,Manyata Tech Park
+290-B,Nagawara,17,Thursday,0,50,45,90.0,High,Manyata Tech Park
+290-E,Jakkur,13,Thursday,0,55,5,9.1,Low,Manyata Tech Park
+290-B,Manyata Tech Park,15,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Thursday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Manyata Tech Park,5,Sunday,1,50,18,36.0,Medium,Manyata Tech Park
+500-D,Hebbal,10,Wednesday,0,50,32,64.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,13,Friday,0,55,31,56.4,Medium,Manyata Tech Park
+290-E,Thanisandra,5,Wednesday,0,50,17,34.0,Low,Manyata Tech Park
+290-B,Nagawara,10,Friday,0,50,18,36.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,12,Monday,0,50,6,12.0,Low,Manyata Tech Park
+290-E,Thanisandra,17,Thursday,0,55,38,69.1,Medium,Manyata Tech Park
+290-E,Thanisandra,15,Tuesday,0,60,26,43.3,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Tuesday,0,55,26,47.3,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,18,Friday,0,60,47,78.3,High,Manyata Tech Park
+500-D,Manyata Tech Park,16,Wednesday,0,60,19,31.7,Low,Manyata Tech Park
+290-B,Manyata Tech Park,18,Friday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,6,Monday,0,55,12,21.8,Low,Manyata Tech Park
+290-B,Thanisandra,11,Saturday,1,50,9,18.0,Low,Manyata Tech Park
+500-D,Veerannapalya,19,Friday,0,60,47,78.3,High,Manyata Tech Park
+500-D,Hebbal,22,Thursday,0,55,10,18.2,Low,Manyata Tech Park
+290-E,Thanisandra,19,Wednesday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Nagawara,22,Tuesday,0,55,2,3.6,Low,Manyata Tech Park
+290-E,Thanisandra,21,Wednesday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Nagawara,15,Tuesday,0,55,22,40.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,15,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+290-B,Nagawara,6,Tuesday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,50,17,34.0,Low,Manyata Tech Park
+500-D,Veerannapalya,15,Sunday,1,55,12,21.8,Low,Manyata Tech Park
+290-E,Yelahanka,20,Saturday,1,50,13,26.0,Low,Manyata Tech Park
+500-D,Nagawara,16,Friday,0,60,38,63.3,Medium,Manyata Tech Park
+290-E,Yelahanka,10,Wednesday,0,60,28,46.7,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,6,Monday,0,50,20,40.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,18,Wednesday,0,50,45,90.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,15,Sunday,1,55,16,29.1,Low,Manyata Tech Park
+290-E,Jakkur,12,Thursday,0,50,17,34.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,11,Monday,0,50,17,34.0,Low,Manyata Tech Park
+500-D,Nagawara,10,Tuesday,0,50,34,68.0,Medium,Manyata Tech Park
+500-D,Nagawara,21,Friday,0,50,24,48.0,Medium,Manyata Tech Park
+290-B,Thanisandra,11,Friday,0,50,5,10.0,Low,Manyata Tech Park
+500-D,Nagawara,12,Thursday,0,55,31,56.4,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Saturday,1,55,22,40.0,Medium,Manyata Tech Park
+500-D,Hebbal,16,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,14,Sunday,1,55,16,29.1,Low,Manyata Tech Park
+290-E,Thanisandra,10,Saturday,1,50,13,26.0,Low,Manyata Tech Park
+290-E,Jakkur,17,Tuesday,0,50,38,76.0,High,Manyata Tech Park
+500-D,Veerannapalya,9,Thursday,0,50,26,52.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,9,Friday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Nagawara,13,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Wednesday,0,50,37,74.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,5,Monday,0,60,17,28.3,Low,Manyata Tech Park
+290-E,Yelahanka,10,Tuesday,0,50,22,44.0,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,18,Monday,0,55,52,94.5,High,Manyata Tech Park
+500-D,Veerannapalya,9,Monday,0,60,54,90.0,High,Manyata Tech Park
+290-E,Jakkur,14,Thursday,0,60,32,53.3,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,6,Wednesday,0,50,28,56.0,Medium,Manyata Tech Park
+500-D,Hebbal,11,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+290-E,Thanisandra,15,Tuesday,0,55,19,34.5,Low,Manyata Tech Park
+290-E,Manyata Tech Park,19,Saturday,1,55,13,23.6,Low,Manyata Tech Park
+500-D,Hebbal,12,Wednesday,0,60,25,41.7,Medium,Manyata Tech Park
+500-D,Veerannapalya,14,Tuesday,0,60,14,23.3,Low,Manyata Tech Park
+500-D,Hebbal,18,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Hebbal,22,Tuesday,0,60,8,13.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Friday,0,50,14,28.0,Low,Manyata Tech Park
+290-B,Thanisandra,11,Saturday,1,60,8,13.3,Low,Manyata Tech Park
+500-D,Nagawara,13,Monday,0,50,26,52.0,Medium,Manyata Tech Park
+500-D,Hebbal,5,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+290-E,Thanisandra,19,Monday,0,50,41,82.0,High,Manyata Tech Park
+500-D,Nagawara,8,Monday,0,60,60,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,7,Tuesday,0,50,44,88.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,13,Thursday,0,60,44,73.3,High,Manyata Tech Park
+290-B,Nagawara,8,Friday,0,55,44,80.0,High,Manyata Tech Park
+290-E,Yelahanka,15,Tuesday,0,60,22,36.7,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Monday,0,60,44,73.3,High,Manyata Tech Park
+290-E,Jakkur,6,Thursday,0,50,7,14.0,Low,Manyata Tech Park
+290-E,Yelahanka,17,Sunday,1,55,42,76.4,High,Manyata Tech Park
+290-B,Manyata Tech Park,5,Thursday,0,60,11,18.3,Low,Manyata Tech Park
+500-D,Hebbal,13,Sunday,1,50,13,26.0,Low,Manyata Tech Park
+500-D,Nagawara,13,Thursday,0,60,7,11.7,Low,Manyata Tech Park
+500-D,Veerannapalya,5,Friday,0,60,10,16.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,12,Wednesday,0,50,18,36.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,21,Thursday,0,55,17,30.9,Low,Manyata Tech Park
+500-D,Hebbal,11,Saturday,1,50,8,16.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,6,Thursday,0,55,17,30.9,Low,Manyata Tech Park
+290-B,Nagawara,9,Tuesday,0,60,55,91.7,High,Manyata Tech Park
+290-B,Nagawara,16,Wednesday,0,55,36,65.5,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,21,Thursday,0,50,9,18.0,Low,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,55,10,18.2,Low,Manyata Tech Park
+500-D,Hebbal,14,Monday,0,55,26,47.3,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,10,Sunday,1,50,14,28.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,16,Thursday,0,55,27,49.1,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Friday,0,55,34,61.8,Medium,Manyata Tech Park
+290-E,Yelahanka,12,Tuesday,0,50,10,20.0,Low,Manyata Tech Park
+290-B,Thanisandra,19,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Nagawara,6,Monday,0,55,24,43.6,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,5,Tuesday,0,55,0,0.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,21,Tuesday,0,60,15,25.0,Low,Manyata Tech Park
+290-E,Yelahanka,10,Saturday,1,55,0,0.0,Low,Manyata Tech Park
+500-D,Nagawara,21,Saturday,1,50,9,18.0,Low,Manyata Tech Park
+500-D,Hebbal,21,Thursday,0,50,30,60.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,8,Monday,0,50,48,96.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,18,Friday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,11,Wednesday,0,60,32,53.3,Medium,Manyata Tech Park
+500-D,Nagawara,15,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Monday,0,50,50,100.0,High,Manyata Tech Park
+500-D,Veerannapalya,19,Tuesday,0,50,44,88.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,21,Saturday,1,50,17,34.0,Low,Manyata Tech Park
+290-E,Thanisandra,12,Monday,0,55,6,10.9,Low,Manyata Tech Park
+290-B,Manyata Tech Park,10,Tuesday,0,60,34,56.7,Medium,Manyata Tech Park
+290-E,Yelahanka,19,Wednesday,0,55,35,63.6,Medium,Manyata Tech Park
+290-B,Thanisandra,7,Thursday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Manyata Tech Park,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-E,Jakkur,20,Sunday,1,50,19,38.0,Medium,Manyata Tech Park
+290-E,Thanisandra,21,Friday,0,60,4,6.7,Low,Manyata Tech Park
+290-E,Yelahanka,7,Monday,0,60,43,71.7,High,Manyata Tech Park
+290-B,Manyata Tech Park,7,Sunday,1,55,18,32.7,Low,Manyata Tech Park
+290-B,Thanisandra,15,Friday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Wednesday,0,55,31,56.4,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,22,Monday,0,50,13,26.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,16,Friday,0,60,59,98.3,High,Manyata Tech Park
+500-D,Veerannapalya,21,Tuesday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Tuesday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,6,Friday,0,55,8,14.5,Low,Manyata Tech Park
+500-D,Nagawara,20,Friday,0,50,26,52.0,Medium,Manyata Tech Park
+290-E,Yelahanka,11,Wednesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Hebbal,11,Friday,0,60,22,36.7,Medium,Manyata Tech Park
+500-D,Nagawara,8,Friday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,7,Thursday,0,50,39,78.0,High,Manyata Tech Park
+500-D,Nagawara,10,Friday,0,60,28,46.7,Medium,Manyata Tech Park
+290-B,Thanisandra,15,Wednesday,0,60,3,5.0,Low,Manyata Tech Park
+290-B,Thanisandra,20,Tuesday,0,55,21,38.2,Medium,Manyata Tech Park
+500-D,Hebbal,18,Wednesday,0,55,49,89.1,High,Manyata Tech Park
+290-B,Nagawara,8,Thursday,0,60,55,91.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,21,Friday,0,60,14,23.3,Low,Manyata Tech Park
+290-B,Nagawara,11,Monday,0,55,4,7.3,Low,Manyata Tech Park
+290-E,Thanisandra,20,Wednesday,0,55,17,30.9,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,10,Wednesday,0,60,25,41.7,Medium,Manyata Tech Park
+290-E,Jakkur,14,Monday,0,55,0,0.0,Low,Manyata Tech Park
+290-E,Jakkur,19,Friday,0,55,39,70.9,High,Manyata Tech Park
+500-D,Hebbal,13,Wednesday,0,60,18,30.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,15,Wednesday,0,50,7,14.0,Low,Manyata Tech Park
+290-B,Thanisandra,15,Tuesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Jakkur,18,Wednesday,0,60,57,95.0,High,Manyata Tech Park
+290-B,Thanisandra,12,Thursday,0,55,38,69.1,Medium,Manyata Tech Park
+500-D,Veerannapalya,11,Thursday,0,50,12,24.0,Low,Manyata Tech Park
+290-E,Jakkur,14,Thursday,0,50,9,18.0,Low,Manyata Tech Park
+290-E,Manyata Tech Park,13,Friday,0,55,12,21.8,Low,Manyata Tech Park
+290-B,Thanisandra,8,Saturday,1,55,52,94.5,High,Manyata Tech Park
+290-B,Nagawara,16,Saturday,1,55,14,25.5,Low,Manyata Tech Park
+500-D,Hebbal,21,Monday,0,55,17,30.9,Low,Manyata Tech Park
+290-E,Thanisandra,11,Friday,0,60,12,20.0,Low,Manyata Tech Park
+500-D,Hebbal,18,Wednesday,0,50,50,100.0,High,Manyata Tech Park
+290-E,Thanisandra,13,Wednesday,0,50,27,54.0,Medium,Manyata Tech Park
+290-B,Nagawara,8,Monday,0,60,46,76.7,High,Manyata Tech Park
+290-E,Thanisandra,17,Friday,0,55,40,72.7,High,Manyata Tech Park
+500-D,Hebbal,15,Friday,0,50,26,52.0,Medium,Manyata Tech Park
+500-D,Nagawara,14,Wednesday,0,60,17,28.3,Low,Manyata Tech Park
+500-D,Hebbal,16,Tuesday,0,50,39,78.0,High,Manyata Tech Park
+290-B,Thanisandra,16,Saturday,1,55,7,12.7,Low,Manyata Tech Park
+290-E,Yelahanka,9,Friday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,22,Monday,0,55,8,14.5,Low,Manyata Tech Park
+500-D,Veerannapalya,18,Friday,0,55,49,89.1,High,Manyata Tech Park
+290-B,Thanisandra,5,Wednesday,0,50,0,0.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,15,Friday,0,60,6,10.0,Low,Manyata Tech Park
+290-E,Yelahanka,16,Saturday,1,55,11,20.0,Low,Manyata Tech Park
+500-D,Nagawara,18,Friday,0,50,39,78.0,High,Manyata Tech Park
+290-B,Thanisandra,6,Tuesday,0,50,14,28.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,7,Tuesday,0,60,52,86.7,High,Manyata Tech Park
+500-D,Nagawara,13,Friday,0,55,29,52.7,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-E,Jakkur,12,Monday,0,55,12,21.8,Low,Manyata Tech Park
+290-E,Yelahanka,5,Wednesday,0,55,18,32.7,Low,Manyata Tech Park
+290-B,Nagawara,21,Thursday,0,55,13,23.6,Low,Manyata Tech Park
+290-B,Thanisandra,22,Friday,0,50,9,18.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,17,Tuesday,0,60,28,46.7,Medium,Manyata Tech Park
+290-B,Nagawara,19,Monday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,6,Tuesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,9,Saturday,1,55,35,63.6,Medium,Manyata Tech Park
+290-E,Thanisandra,12,Saturday,1,60,14,23.3,Low,Manyata Tech Park
+500-D,Veerannapalya,6,Thursday,0,55,20,36.4,Medium,Manyata Tech Park
+290-B,Nagawara,7,Sunday,1,50,23,46.0,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,10,Tuesday,0,55,30,54.5,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,21,Thursday,0,50,12,24.0,Low,Manyata Tech Park
+500-D,Hebbal,14,Tuesday,0,55,15,27.3,Low,Manyata Tech Park
+500-D,Hebbal,20,Monday,0,50,31,62.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,13,Thursday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,8,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,14,Tuesday,0,55,14,25.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,21,Tuesday,0,60,14,23.3,Low,Manyata Tech Park
+290-E,Thanisandra,21,Wednesday,0,60,7,11.7,Low,Manyata Tech Park
+500-D,Veerannapalya,5,Thursday,0,60,10,16.7,Low,Manyata Tech Park
+290-E,Manyata Tech Park,5,Wednesday,0,55,5,9.1,Low,Manyata Tech Park
+290-E,Yelahanka,15,Saturday,1,55,6,10.9,Low,Manyata Tech Park
+290-E,Jakkur,21,Friday,0,60,22,36.7,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,12,Thursday,0,55,34,61.8,Medium,Manyata Tech Park
+290-B,Nagawara,16,Thursday,0,60,22,36.7,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,8,Thursday,0,55,48,87.3,High,Manyata Tech Park
+290-B,Thanisandra,10,Sunday,1,50,12,24.0,Low,Manyata Tech Park
+500-D,Veerannapalya,16,Friday,0,55,17,30.9,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,20,Monday,0,55,20,36.4,Medium,Manyata Tech Park
+500-D,Veerannapalya,17,Tuesday,0,50,48,96.0,High,Manyata Tech Park
+290-E,Jakkur,12,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+290-B,Manyata Tech Park,10,Thursday,0,60,23,38.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,9,Thursday,0,55,54,98.2,High,Manyata Tech Park
+500-D,Nagawara,20,Thursday,0,55,31,56.4,Medium,Manyata Tech Park
+290-B,Thanisandra,18,Saturday,1,55,33,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,14,Friday,0,60,9,15.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,12,Saturday,1,50,7,14.0,Low,Manyata Tech Park
+500-D,Hebbal,12,Wednesday,0,55,22,40.0,Medium,Manyata Tech Park
+290-B,Thanisandra,21,Saturday,1,50,3,6.0,Low,Manyata Tech Park
+290-B,RK Hegde Nagar,7,Friday,0,55,30,54.5,Medium,Manyata Tech Park
+290-B,Manyata Tech Park,5,Sunday,1,60,4,6.7,Low,Manyata Tech Park
+290-E,Thanisandra,6,Tuesday,0,55,24,43.6,Medium,Manyata Tech Park
+290-E,Thanisandra,9,Thursday,0,55,54,98.2,High,Manyata Tech Park
+290-B,Thanisandra,17,Tuesday,0,50,42,84.0,High,Manyata Tech Park
+500-D,Veerannapalya,19,Saturday,1,50,26,52.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,16,Tuesday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Manyata Tech Park,9,Wednesday,0,55,55,100.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,20,Friday,0,60,38,63.3,Medium,Manyata Tech Park
+500-D,Manyata Tech Park,21,Saturday,1,55,12,21.8,Low,Manyata Tech Park
+290-E,Yelahanka,11,Monday,0,55,8,14.5,Low,Manyata Tech Park
+290-B,Thanisandra,8,Wednesday,0,55,51,92.7,High,Manyata Tech Park
+500-D,Veerannapalya,6,Tuesday,0,50,33,66.0,Medium,Manyata Tech Park
+500-D,Hebbal,21,Monday,0,55,13,23.6,Low,Manyata Tech Park
+500-D,Manyata Tech Park,11,Thursday,0,50,31,62.0,Medium,Manyata Tech Park
+290-E,Thanisandra,18,Friday,0,50,43,86.0,High,Manyata Tech Park
+500-D,Manyata Tech Park,13,Tuesday,0,50,25,50.0,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,15,Wednesday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Jakkur,5,Friday,0,60,2,3.3,Low,Manyata Tech Park
+500-D,Veerannapalya,14,Friday,0,55,15,27.3,Low,Manyata Tech Park
+500-D,Manyata Tech Park,13,Wednesday,0,55,3,5.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,20,Saturday,1,60,33,55.0,Medium,Manyata Tech Park
+500-D,Nagawara,17,Friday,0,55,40,72.7,High,Manyata Tech Park
+290-E,Manyata Tech Park,10,Monday,0,55,42,76.4,High,Manyata Tech Park
+500-D,Hebbal,7,Monday,0,60,55,91.7,High,Manyata Tech Park
+290-B,Thanisandra,9,Monday,0,50,48,96.0,High,Manyata Tech Park
+290-B,Thanisandra,14,Tuesday,0,50,11,22.0,Low,Manyata Tech Park
+500-D,Veerannapalya,11,Saturday,1,50,12,24.0,Low,Manyata Tech Park
+500-D,Veerannapalya,18,Sunday,1,50,32,64.0,Medium,Manyata Tech Park
+500-D,Veerannapalya,19,Monday,0,55,38,69.1,Medium,Manyata Tech Park
+290-E,Thanisandra,22,Saturday,1,55,4,7.3,Low,Manyata Tech Park
+290-E,Jakkur,8,Friday,0,60,36,60.0,Medium,Manyata Tech Park
+500-D,Nagawara,10,Saturday,1,60,22,36.7,Medium,Manyata Tech Park
+290-E,Jakkur,13,Saturday,1,50,0,0.0,Low,Manyata Tech Park
+290-E,Yelahanka,14,Thursday,0,55,18,32.7,Low,Manyata Tech Park
+500-D,Nagawara,21,Wednesday,0,60,19,31.7,Low,Manyata Tech Park
+290-B,Nagawara,15,Tuesday,0,55,0,0.0,Low,Manyata Tech Park
+500-D,Hebbal,9,Wednesday,0,55,52,94.5,High,Manyata Tech Park
+500-D,Manyata Tech Park,12,Monday,0,55,15,27.3,Low,Manyata Tech Park
+290-B,Thanisandra,14,Saturday,1,55,7,12.7,Low,Manyata Tech Park
+290-B,Manyata Tech Park,11,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+500-D,Veerannapalya,9,Thursday,0,55,43,78.2,High,Manyata Tech Park
+500-D,Manyata Tech Park,8,Friday,0,60,60,100.0,High,Manyata Tech Park
+290-B,RK Hegde Nagar,11,Friday,0,50,29,58.0,Medium,Manyata Tech Park
+500-D,Nagawara,8,Saturday,1,55,41,74.5,High,Manyata Tech Park
+500-D,Manyata Tech Park,5,Friday,0,55,29,52.7,Medium,Manyata Tech Park
+500-D,Nagawara,8,Sunday,1,55,41,74.5,High,Manyata Tech Park
+290-E,Jakkur,22,Friday,0,55,3,5.5,Low,Manyata Tech Park
+290-B,Manyata Tech Park,9,Thursday,0,60,40,66.7,Medium,Manyata Tech Park
+290-B,Thanisandra,5,Saturday,1,60,0,0.0,Low,Manyata Tech Park
+290-B,Manyata Tech Park,10,Tuesday,0,55,27,49.1,Medium,Manyata Tech Park
+290-E,Thanisandra,8,Tuesday,0,60,60,100.0,High,Manyata Tech Park
+290-B,Manyata Tech Park,5,Monday,0,55,7,12.7,Low,Manyata Tech Park
+290-B,Nagawara,16,Saturday,1,55,4,7.3,Low,Manyata Tech Park
+290-B,Nagawara,11,Saturday,1,60,12,20.0,Low,Manyata Tech Park
+290-E,Thanisandra,13,Monday,0,55,18,32.7,Low,Manyata Tech Park
+290-E,Jakkur,6,Saturday,1,55,5,9.1,Low,Manyata Tech Park
+290-B,Manyata Tech Park,20,Friday,0,55,28,50.9,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,13,Tuesday,0,50,16,32.0,Low,Manyata Tech Park
+500-D,Hebbal,18,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Thanisandra,17,Friday,0,60,43,71.7,High,Manyata Tech Park
+500-D,Veerannapalya,5,Tuesday,0,55,19,34.5,Low,Manyata Tech Park
+500-D,Manyata Tech Park,18,Wednesday,0,60,60,100.0,High,Manyata Tech Park
+290-E,Thanisandra,10,Saturday,1,55,15,27.3,Low,Manyata Tech Park
+500-D,Nagawara,20,Thursday,0,50,28,56.0,Medium,Manyata Tech Park
+500-D,Hebbal,15,Sunday,1,50,17,34.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,10,Wednesday,0,55,35,63.6,Medium,Manyata Tech Park
+500-D,Veerannapalya,10,Wednesday,0,60,26,43.3,Medium,Manyata Tech Park
+500-D,Nagawara,9,Thursday,0,50,50,100.0,High,Manyata Tech Park
+290-B,Nagawara,17,Thursday,0,60,39,65.0,Medium,Manyata Tech Park
+290-B,Thanisandra,10,Monday,0,60,28,46.7,Medium,Manyata Tech Park
+500-D,Hebbal,17,Thursday,0,55,41,74.5,High,Manyata Tech Park
+290-E,Thanisandra,7,Thursday,0,55,36,65.5,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,22,Sunday,1,55,26,47.3,Medium,Manyata Tech Park
+290-B,RK Hegde Nagar,21,Wednesday,0,60,8,13.3,Low,Manyata Tech Park
+290-B,Manyata Tech Park,14,Saturday,1,55,8,14.5,Low,Manyata Tech Park
+290-B,Manyata Tech Park,9,Tuesday,0,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,20,Tuesday,0,50,34,68.0,Medium,Manyata Tech Park
+290-B,Thanisandra,10,Monday,0,55,23,41.8,Medium,Manyata Tech Park
+500-D,Hebbal,7,Tuesday,0,60,50,83.3,High,Manyata Tech Park
+500-D,Manyata Tech Park,13,Wednesday,0,50,25,50.0,Medium,Manyata Tech Park
+290-E,Manyata Tech Park,15,Monday,0,55,33,60.0,Medium,Manyata Tech Park
+290-E,Yelahanka,7,Sunday,1,55,34,61.8,Medium,Manyata Tech Park
+500-D,Nagawara,5,Thursday,0,50,3,6.0,Low,Manyata Tech Park
+500-D,Manyata Tech Park,9,Monday,0,55,55,100.0,High,Manyata Tech Park
+290-B,Nagawara,6,Thursday,0,50,16,32.0,Low,Manyata Tech Park
+500-D,Veerannapalya,9,Friday,0,55,45,81.8,High,Manyata Tech Park
+500-D,Nagawara,6,Friday,0,60,24,40.0,Medium,Manyata Tech Park

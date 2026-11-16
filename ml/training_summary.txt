@@ -1,0 +1,36 @@
+TRAINING SUMMARY - AI-Based BMTC Crowd Predictor for Students
+NOTE: Dataset is SYNTHETIC. It is NOT real BMTC passenger data.
+================================================================
+Created at              : 2026-11-12T00:26:02
+Total records           : 10000
+Training records        : 8000
+Testing records         : 2000
+Missing values          : 0
+Exact duplicate rows    : 788 (kept, to preserve exactly 10,000 records)
+
+Class distribution (whole dataset / train / test):
+  Low    :  3668 (36.68%)  |  train  2934  |  test   734
+  Medium :  4036 (40.36%)  |  train  3229  |  test   807
+  High   :  2296 (22.96%)  |  train  1837  |  test   459
+
+Input features used     : ['route', 'bus_stop', 'day_of_week', 'hour', 'is_weekend']
+Target                  : crowd_level
+Excluded (leakage)      : ['simulated_passengers_onboard', 'simulated_occupancy_percent', 'bus_capacity_assumed', 'destination_area']
+
+Training time per model:
+  Logistic Regression : 0.064 seconds   (max_iter=1000)
+  Decision Tree       : 0.041 seconds   (max_depth=10)
+  Random Forest       : 4.811 seconds   (n_estimators=200)
+  KNN                 : 0.016 seconds   (n_neighbors=5)
+  SVM                 : 2.695 seconds   (kernel=rbf, C=1.0, gamma=scale)
+  Gradient Boosting   : 1.108 seconds   (n_estimators=100, learning_rate=0.1)
+  XGBoost             : 0.457 seconds   (n_estimators=200, learning_rate=0.1, max_depth=6)
+
+CONFIRMATIONS
+  [x] All models were trained ONLY on the 8,000 training records.
+  [x] The 2,000 testing records were NOT used for training, fitting, tuning or evaluation.
+  [x] Preprocessing (encoder/scaler) was fitted ONLY on the training records.
+  [x] No accuracy or other performance score was calculated in this script.
+  [x] No row appears in both training and testing sets (checked by row index).
+  [x] testing_data.csv SHA-256: 57c010283810eb4989a0621348708f81bd8c9b324d289d677707cb8b24fb170e
+      (Re-compute it later; if it matches, the file is untouched.)
