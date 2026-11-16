@@ -124,9 +124,6 @@ export default function App() {
                 <span className="font-extrabold text-xl text-white tracking-tight">
                   MyBMTC
                 </span>
-                <span className="text-[10px] uppercase font-bold tracking-widest text-sky-400 bg-sky-950/80 px-2 py-0.5 rounded border border-sky-800/40">
-                  Bengaluru
-                </span>
               </div>
               <p className="text-xs text-slate-400 hidden sm:block">
                 Find your bus. Check the crowd. Travel smarter.
