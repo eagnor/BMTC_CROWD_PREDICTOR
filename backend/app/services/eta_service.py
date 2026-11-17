@@ -12,7 +12,8 @@ from backend.app.models.schemas import (
     ETARequest,
     ETAResponse,
     ETAScheduleItem,
-    CrowdPredictionRequest
+    CrowdPredictionRequest,
+    SmartTravelRecommendation
 )
 from backend.app.utils.helpers import estimate_travel_time
 from backend.app.services.prediction_service import PredictionService
@@ -93,6 +94,89 @@ class ETAService:
                 predicted_crowd=future_crowd
             ))
 
+        # Smart Travel Recommendation:
+        # Search all departures up to 2 hours (120 minutes) into the future
+        all_window_departures: List[ETAScheduleItem] = list(upcoming_list)
+        max_search_mins = 120
+        next_i = 4
+        while True:
+            offset_mins = mins_to_next_bus + (next_i * frequency)
+            if offset_mins > max_search_mins:
+                break
+            dep_dt = base_time + timedelta(minutes=offset_mins)
+            dest_arr_dt = dep_dt + timedelta(minutes=duration_mins)
+            future_crowd = self.prediction_service.predict_crowd(CrowdPredictionRequest(
+                route=route_no,
+                bus_stop=req.origin_stop,
+                day_of_week=day_str,
+                hour=dep_dt.hour
+            )).crowd_level
+
+            all_window_departures.append(ETAScheduleItem(
+                departure_time=dep_dt.strftime("%I:%M %p"),
+                estimated_arrival_origin=dep_dt.strftime("%I:%M %p"),
+                eta_mins_to_origin=offset_mins,
+                journey_duration_mins=duration_mins,
+                estimated_destination_arrival=dest_arr_dt.strftime("%I:%M %p"),
+                predicted_crowd=future_crowd
+            ))
+            next_i += 1
+
+        # Check whether all 4 immediate upcoming departures have High crowd
+        immediate_all_high = all(dep.predicted_crowd == "High" for dep in upcoming_list)
+
+        # 1. Earliest departure with Low crowd
+        earliest_low = next(
+            (dep for dep in all_window_departures if dep.predicted_crowd == "Low"),
+            None
+        )
+
+        # 2. Earliest departure with Medium crowd
+        earliest_medium = next(
+            (dep for dep in all_window_departures if dep.predicted_crowd in ["Medium", "Moderate"]),
+            None
+        )
+
+        if earliest_low:
+            rec_dep = earliest_low
+            has_less_crowded = True
+            notice_msg = None
+            if immediate_all_high:
+                rec_reason = "This departure is predicted to have lower passenger demand compared with the earlier available buses."
+            elif rec_dep == upcoming_list[0]:
+                rec_reason = "Optimal travel window: the upcoming bus is already predicted to have comfortable Low crowd."
+            else:
+                rec_reason = "This departure is predicted to have lower passenger demand compared with the earlier available buses."
+        elif earliest_medium:
+            rec_dep = earliest_medium
+            has_less_crowded = True
+            notice_msg = None
+            if immediate_all_high:
+                rec_reason = "This departure is predicted to have lower passenger demand compared with the earlier available buses."
+            elif rec_dep == upcoming_list[0]:
+                rec_reason = "The upcoming bus is predicted to have Moderate crowd with manageable occupancy."
+            else:
+                rec_reason = "This departure is predicted to have lower passenger demand compared with the earlier available buses."
+        else:
+            # All departures within 2 hours are High crowd
+            rec_dep = upcoming_list[0] if upcoming_list else None
+            has_less_crowded = False
+            notice_msg = "No Low or Medium Crowd buses are predicted within the next 2 hours."
+            rec_reason = "Heavy passenger rush expected across all departures in the next 2 hours. Earliest departure recommended to minimize travel delay."
+
+        smart_rec = None
+        if rec_dep:
+            smart_rec = SmartTravelRecommendation(
+                recommended_departure_time=rec_dep.departure_time,
+                predicted_crowd=rec_dep.predicted_crowd,
+                route=route_no,
+                estimated_arrival_time=rec_dep.estimated_destination_arrival,
+                waiting_time_mins=rec_dep.eta_mins_to_origin,
+                reason=rec_reason,
+                has_less_crowded_bus=has_less_crowded,
+                notice=notice_msg
+            )
+
         return ETAResponse(
             origin_stop=req.origin_stop,
             destination_stop=req.destination_stop,
@@ -107,5 +191,6 @@ class ETAService:
             is_live_gps=False,
             schedule_disclaimer="Estimated scheduled ETA based on standard BMTC timetable headway. Real-time GPS tracking is unverified.",
             upcoming_departures=upcoming_list,
-            intermediate_stops=intermediate
+            intermediate_stops=intermediate,
+            smart_recommendation=smart_rec
         )

@@ -68,6 +68,16 @@ class ETAScheduleItem(BaseModel):
     estimated_destination_arrival: str
     predicted_crowd: str
 
+class SmartTravelRecommendation(BaseModel):
+    recommended_departure_time: str
+    predicted_crowd: str
+    route: str
+    estimated_arrival_time: str
+    waiting_time_mins: int
+    reason: str
+    has_less_crowded_bus: bool
+    notice: Optional[str] = None
+
 class ETAResponse(BaseModel):
     origin_stop: str
     destination_stop: str
@@ -83,6 +93,7 @@ class ETAResponse(BaseModel):
     schedule_disclaimer: str
     upcoming_departures: List[ETAScheduleItem]
     intermediate_stops: List[str]
+    smart_recommendation: Optional[SmartTravelRecommendation] = None
 
 class RouteRecommendationRequest(BaseModel):
     origin_stop: str

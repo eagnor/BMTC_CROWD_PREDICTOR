@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Bus, Clock, ArrowRight, Info, ShieldCheck, ChevronDown, ChevronUp } from 'lucide-react';
+import { Bus, Clock, ArrowRight, Info, ShieldCheck, ChevronDown, ChevronUp, Sparkles, AlertCircle } from 'lucide-react';
 import CrowdIndicator from './CrowdIndicator';
 
 export default function RouteResultCard({
@@ -16,6 +16,7 @@ export default function RouteResultCard({
   const upcomingDepartures = etaData?.upcoming_departures || [];
   const nextEtaMins = etaData?.next_bus_eta_mins ?? 5;
   const overallCrowd = etaData?.predicted_crowd_level || 'Medium';
+  const smartRec = etaData?.smart_recommendation;
 
   return (
     <div className="bg-navy-900/90 border border-slate-800/90 rounded-2xl overflow-hidden shadow-lg transition-all hover:border-slate-700/80">
@@ -79,6 +80,99 @@ export default function RouteResultCard({
           </div>
         )}
       </div>
+
+      {/* Smart Travel Recommendation Section */}
+      {smartRec && (
+        <div className="mx-5 sm:mx-6 mt-5 p-4 sm:p-5 rounded-2xl bg-gradient-to-br from-navy-850 via-navy-900 to-navy-850 border border-sky-500/30 shadow-lg relative overflow-hidden">
+          {/* Subtle decorative background highlight */}
+          <div className="absolute top-0 right-0 w-64 h-32 bg-sky-500/5 rounded-full blur-3xl pointer-events-none" />
+
+          {/* Section Title Header */}
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-3 mb-3 border-b border-slate-800/80">
+            <div className="flex items-center gap-2">
+              <div className="p-1.5 rounded-lg bg-sky-500/10 border border-sky-500/30 text-sky-400">
+                <Sparkles className="w-4 h-4" />
+              </div>
+              <h4 className="font-bold text-sm text-white tracking-wide flex items-center gap-2">
+                Smart Travel Recommendation
+              </h4>
+            </div>
+
+            {smartRec.has_less_crowded_bus ? (
+              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-emerald-500/10 text-emerald-300 border border-emerald-500/30 flex items-center gap-1.5 w-fit">
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+                Less Crowded Bus Available
+              </span>
+            ) : (
+              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-amber-500/10 text-amber-300 border border-amber-500/30 flex items-center gap-1.5 w-fit">
+                <AlertCircle className="w-3.5 h-3.5 text-amber-400" />
+                Peak Congestion Period
+              </span>
+            )}
+          </div>
+
+          {/* Notice when all departures in 2 hours are High */}
+          {!smartRec.has_less_crowded_bus && smartRec.notice && (
+            <div className="mb-3.5 p-3 rounded-xl bg-amber-950/40 border border-amber-500/30 text-amber-300 text-xs flex items-center gap-2">
+              <AlertCircle className="w-4 h-4 shrink-0 text-amber-400" />
+              <span>{smartRec.notice}</span>
+            </div>
+          )}
+
+          {/* Details Grid */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-left">
+            {/* Best time to travel */}
+            <div className="p-3 rounded-xl bg-navy-950/70 border border-slate-800/80">
+              <span className="text-[11px] font-medium text-slate-400 uppercase tracking-wider block">
+                Best Time to Travel
+              </span>
+              <span className="text-lg font-extrabold text-white tracking-tight mt-0.5 block">
+                {smartRec.recommended_departure_time}
+              </span>
+            </div>
+
+            {/* Expected Crowd */}
+            <div className="p-3 rounded-xl bg-navy-950/70 border border-slate-800/80 flex flex-col justify-between">
+              <span className="text-[11px] font-medium text-slate-400 uppercase tracking-wider block">
+                Expected Crowd
+              </span>
+              <div className="mt-1">
+                <CrowdIndicator
+                  level={smartRec.predicted_crowd}
+                  size="sm"
+                  showSublabel={false}
+                />
+              </div>
+            </div>
+
+            {/* Waiting Time */}
+            <div className="p-3 rounded-xl bg-navy-950/70 border border-slate-800/80">
+              <span className="text-[11px] font-medium text-slate-400 uppercase tracking-wider block">
+                Waiting Time
+              </span>
+              <span className="text-base font-bold text-sky-400 mt-0.5 block">
+                {smartRec.waiting_time_mins} minutes
+              </span>
+            </div>
+
+            {/* Estimated Arrival */}
+            <div className="p-3 rounded-xl bg-navy-950/70 border border-slate-800/80">
+              <span className="text-[11px] font-medium text-slate-400 uppercase tracking-wider block">
+                Estimated Arrival
+              </span>
+              <span className="text-base font-bold text-slate-200 mt-0.5 block">
+                {smartRec.estimated_arrival_time}
+              </span>
+            </div>
+          </div>
+
+          {/* Reason */}
+          <div className="mt-3.5 pt-3 border-t border-slate-800/60 flex items-start gap-2 text-xs text-slate-300">
+            <span className="font-semibold text-slate-400 shrink-0">Reason:</span>
+            <span className="text-slate-300 leading-relaxed">{smartRec.reason}</span>
+          </div>
+        </div>
+      )}
 
       {/* Upcoming Departures Section */}
       <div className="p-5 sm:p-6 space-y-4">

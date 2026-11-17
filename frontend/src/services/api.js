@@ -232,6 +232,68 @@ export const api = {
 
       const nextArrTime = new Date(baseDate.getTime() + (wait + duration) * 60000);
 
+      // Smart recommendation in fallback
+      const windowDepartures = [];
+      for (let i = 0; i <= 15; i++) {
+        const depOffset = wait + (i * freq);
+        if (depOffset > 120) break;
+        const depTime = new Date(baseDate.getTime() + depOffset * 60000);
+        const arrTime = new Date(depTime.getTime() + duration * 60000);
+        const depHour = depTime.getHours();
+        const depIsPeak = (depHour >= 8 && depHour <= 10) || (depHour >= 17 && depHour <= 20);
+        const crowd = depIsPeak ? 'High' : (depHour >= 11 && depHour <= 16 ? 'Moderate' : 'Low');
+        windowDepartures.push({
+          departure_time: format12Hour(depTime),
+          waiting_time_mins: depOffset,
+          estimated_arrival_time: format12Hour(arrTime),
+          predicted_crowd: crowd,
+        });
+      }
+
+      const earliestLow = windowDepartures.find(d => d.predicted_crowd === 'Low');
+      const earliestMedium = windowDepartures.find(d => d.predicted_crowd === 'Moderate' || d.predicted_crowd === 'Medium');
+      let smartRec = null;
+
+      if (earliestLow) {
+        smartRec = {
+          recommended_departure_time: earliestLow.departure_time,
+          predicted_crowd: 'Low',
+          route: r,
+          estimated_arrival_time: earliestLow.estimated_arrival_time,
+          waiting_time_mins: earliestLow.waiting_time_mins,
+          reason: isPeak
+            ? 'This departure is predicted to have lower passenger demand compared with the earlier available buses.'
+            : 'Optimal travel window: the upcoming bus is already predicted to have comfortable Low crowd.',
+          has_less_crowded_bus: true,
+          notice: null,
+        };
+      } else if (earliestMedium) {
+        smartRec = {
+          recommended_departure_time: earliestMedium.departure_time,
+          predicted_crowd: 'Medium',
+          route: r,
+          estimated_arrival_time: earliestMedium.estimated_arrival_time,
+          waiting_time_mins: earliestMedium.waiting_time_mins,
+          reason: isPeak
+            ? 'This departure is predicted to have lower passenger demand compared with the earlier available buses.'
+            : 'Recommended to avoid heavy peak rush, with predicted Moderate crowd.',
+          has_less_crowded_bus: true,
+          notice: null,
+        };
+      } else {
+        const firstDep = windowDepartures[0] || { departure_time: format12Hour(new Date()), waiting_time_mins: wait, estimated_arrival_time: format12Hour(nextArrTime) };
+        smartRec = {
+          recommended_departure_time: firstDep.departure_time,
+          predicted_crowd: 'High',
+          route: r,
+          estimated_arrival_time: firstDep.estimated_arrival_time,
+          waiting_time_mins: firstDep.waiting_time_mins,
+          reason: 'Heavy passenger rush expected across all departures in the next 2 hours. Earliest departure recommended to minimize travel delay.',
+          has_less_crowded_bus: false,
+          notice: 'No Low or Medium Crowd buses are predicted within the next 2 hours.',
+        };
+      }
+
       return {
         origin_stop,
         destination_stop,
@@ -247,6 +309,7 @@ export const api = {
         schedule_disclaimer: 'Estimated scheduled arrival based on standard BMTC timetable headway. Real-time GPS tracking is unverified.',
         upcoming_departures: upcoming,
         intermediate_stops: intermediate,
+        smart_recommendation: smartRec,
       };
     }
   },
